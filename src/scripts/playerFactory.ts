@@ -60,12 +60,12 @@ export class PlayerFactory {
     // bad at tackling, strenght
 
     let skill: SkillAttributes = {
-      dribling: this.generateStats(level),
+      dribbling: this.generateStats(level),
       speed: this.generateStats(level),
       shooting: this.generateStats(level),
       // play around with these variables
       tackling: randomNumber(60, 100), // can use pickone
-      passing: randomNumber(65, 90), // can use pickone
+      passing: this.generateStats(level), // can use pickone
       strength: randomNumber(60, 80), //  an use pickone,
       gk_saving: null,
       gk_reactions: null,
@@ -91,7 +91,7 @@ export class PlayerFactory {
     let skill: SkillAttributes = {
       // gk might not need these other
       // maybe strength or tackling, passing
-      dribling: null,
+      dribbling: null,
       speed: null,
       shooting: null,
       // play around with these variables
@@ -125,7 +125,7 @@ export class PlayerFactory {
     // some might be better at defending or attaching
 
     let skill: SkillAttributes = {
-      dribling: this.generateStats(level),
+      dribbling: this.generateStats(level),
       speed: this.generateStats(level),
       shooting: this.generateStats(level),
       // play around with these variables
@@ -164,7 +164,7 @@ export class PlayerFactory {
     // Defenders
     // bad at speed, dirbbling, shooting
     let skill: SkillAttributes = {
-      dribling: randomNumber(65, 100),
+      dribbling: randomNumber(65, 100),
       speed: randomNumber(65, 100),
       shooting: randomNumber(60, 100),
       // play around with these variables

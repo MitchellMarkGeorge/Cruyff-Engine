@@ -21,7 +21,7 @@ export interface Player {
 export interface SkillAttributes {
     // should i still use null or use 0
     speed: number | null,
-    dribling: number | null,
+    dribbling: number | null,
     passing: number | null,
     shooting: number | null,
     tackling: number | null,

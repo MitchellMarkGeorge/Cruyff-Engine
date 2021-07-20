@@ -1,16 +1,13 @@
-import faker from "faker";
-import { Player, PLAYER_LEVEL, PLAYER_POSITION } from "../types";
-console.log("heelop");
-import { randomNumber } from "../utils";
 import { PlayerFactory } from "./playerFactory";
 // faker.de
 
+// for dtatbase, use lowdb and lodash fornow
+// after mach sim is up and running, make own database
 
-
-console.log(PlayerFactory.createPlayer("CF", "LEGEND"));
-console.log(PlayerFactory.createPlayer("CM", "LEGEND"));
-console.log(PlayerFactory.createPlayer("CB", "LEGEND"));
-console.log(PlayerFactory.createPlayer("GK", "LEGEND"));
+console.log(PlayerFactory.createPlayer("CF", "ROOKIE"));
+console.log(PlayerFactory.createPlayer("CM", "ROOKIE"));
+console.log(PlayerFactory.createPlayer("CB", "ROOKIE"));
+console.log(PlayerFactory.createPlayer("GK", "ROOKIE"));
 
 
 
@@ -47,7 +44,7 @@ console.log(PlayerFactory.createPlayer("GK", "LEGEND"));
 // lower skill attributes (and a lower overall rating) compared to pro and legend players
 // (indepenedt of the position they play)
 
-// 2) a cf would be better at shooting and dribling compared to a defender (who mwould be better at defending and passing)
+// 2) a cf would be better at shooting and dribbling compared to a defender (who mwould be better at defending and passing)
 
 // CF attributes
 // better at skills like
