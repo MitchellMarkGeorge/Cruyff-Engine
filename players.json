@@ -1,0 +1,4802 @@
+{
+  "Lockinge FC": [
+    {
+      "id": "_-gNVnABvQKmj-4867igc",
+      "name": "Joshua Ryan",
+      "overall_rating": 62,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 61,
+        "strength": 63,
+        "gk_saving": 62,
+        "gk_reactions": 63
+      },
+      "team": "Lockinge FC",
+      "position": "GK",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "mAzvWOvaBCqNm0_C-gwMj",
+      "name": "Mattia Piazzini",
+      "overall_rating": 86,
+      "skill": {
+        "dribbling": 71,
+        "speed": 88,
+        "shooting": 89,
+        "tackling": 88,
+        "passing": 91,
+        "strength": 90,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lockinge FC",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "xPoRz1AQ8xpx_9Snz204d",
+      "name": "Adrian George",
+      "overall_rating": 74,
+      "skill": {
+        "dribbling": 72,
+        "speed": 65,
+        "shooting": 74,
+        "tackling": 79,
+        "passing": 77,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lockinge FC",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "zAliRFkFZ7knLMyVQa0Ne",
+      "name": "Roy Blair",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 75,
+        "speed": 79,
+        "shooting": 89,
+        "tackling": 78,
+        "passing": 76,
+        "strength": 80,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lockinge FC",
+      "position": "LB",
+      "level": "PRO"
+    },
+    {
+      "id": "neL1ey-npMI3TTCUHJm2X",
+      "name": "Larry Salazar",
+      "overall_rating": 75,
+      "skill": {
+        "dribbling": 97,
+        "speed": 70,
+        "shooting": 98,
+        "tackling": 64,
+        "passing": 61,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lockinge FC",
+      "position": "RB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "T04EyANuu5_MAC57nACrQ",
+      "name": "Marcello Zanobini",
+      "overall_rating": 65,
+      "skill": {
+        "dribbling": 62,
+        "speed": 62,
+        "shooting": 60,
+        "tackling": 64,
+        "passing": 64,
+        "strength": 83,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lockinge FC",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "_FbYqNUo0xgMsBo5AijV6",
+      "name": "Franco Bravi",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": 93,
+        "speed": 86,
+        "shooting": 87,
+        "tackling": 82,
+        "passing": 73,
+        "strength": 66,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lockinge FC",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "Hnuo7Z_NpbUXklLM7WsCs",
+      "name": "Elio Sereni",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": 80,
+        "speed": 79,
+        "shooting": 82,
+        "tackling": 86,
+        "passing": 82,
+        "strength": 82,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lockinge FC",
+      "position": "LM",
+      "level": "PRO"
+    },
+    {
+      "id": "-Uqwd8bkdajjyS0CqM4W6",
+      "name": "Marvin Lewis",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 88,
+        "speed": 89,
+        "shooting": 92,
+        "tackling": 62,
+        "passing": 83,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lockinge FC",
+      "position": "RM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "xW56AWJn3zOlyLv8d1Qij",
+      "name": "Manuel Tirinnanzi",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 78,
+        "speed": 84,
+        "shooting": 80,
+        "tackling": 91,
+        "passing": 75,
+        "strength": 67,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lockinge FC",
+      "position": "CF",
+      "level": "PRO"
+    },
+    {
+      "id": "ktndJfx1GAlVdSq_K060I",
+      "name": "Terry Stone",
+      "overall_rating": 88,
+      "skill": {
+        "dribbling": 94,
+        "speed": 92,
+        "shooting": 86,
+        "tackling": 97,
+        "passing": 86,
+        "strength": 76,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lockinge FC",
+      "position": "CF",
+      "level": "LEGEND"
+    }
+  ],
+  "Penrith United": [
+    {
+      "id": "u_TxvoJ5apIOHMZ940i_A",
+      "name": "Angel Vasquez",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 79,
+        "strength": 83,
+        "gk_saving": 79,
+        "gk_reactions": 78
+      },
+      "team": "Penrith United",
+      "position": "GK",
+      "level": "PRO"
+    },
+    {
+      "id": "syVSmb6GFL7UkHQIH5HPD",
+      "name": "Roberto Righini",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 93,
+        "speed": 86,
+        "shooting": 87,
+        "tackling": 86,
+        "passing": 87,
+        "strength": 86,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Penrith United",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "LDKLfAVb6B1oo0cIY5b0M",
+      "name": "Dennis Craig",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 81,
+        "speed": 80,
+        "shooting": 76,
+        "tackling": 81,
+        "passing": 75,
+        "strength": 80,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Penrith United",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "5OyAS4NcAridNFqubn1lS",
+      "name": "Danny Byrd",
+      "overall_rating": 67,
+      "skill": {
+        "dribbling": 69,
+        "speed": 74,
+        "shooting": 80,
+        "tackling": 62,
+        "passing": 60,
+        "strength": 60,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Penrith United",
+      "position": "LB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "aTty-7t4YLSWHIWsOxuco",
+      "name": "Gianfranco Petri",
+      "overall_rating": 74,
+      "skill": {
+        "dribbling": 65,
+        "speed": 81,
+        "shooting": 64,
+        "tackling": 84,
+        "passing": 77,
+        "strength": 75,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Penrith United",
+      "position": "RB",
+      "level": "PRO"
+    },
+    {
+      "id": "urY2nbzNQWGpWrt7Ary5g",
+      "name": "Valter Ignesti",
+      "overall_rating": 83,
+      "skill": {
+        "dribbling": 86,
+        "speed": 88,
+        "shooting": 91,
+        "tackling": 61,
+        "passing": 83,
+        "strength": 92,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Penrith United",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "JDbEeS7gAnsc8DVw7tMpj",
+      "name": "Daniel Hughes",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 80,
+        "speed": 75,
+        "shooting": 79,
+        "tackling": 74,
+        "passing": 82,
+        "strength": 80,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Penrith United",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "VIB1Yd2iqYTiWxF2XxXCZ",
+      "name": "Vasco Li",
+      "overall_rating": 65,
+      "skill": {
+        "dribbling": 62,
+        "speed": 63,
+        "shooting": 62,
+        "tackling": 63,
+        "passing": 81,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Penrith United",
+      "position": "LM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "y_ov0xSX1FGhUukoSNflF",
+      "name": "Peter Burton",
+      "overall_rating": 66,
+      "skill": {
+        "dribbling": 60,
+        "speed": 62,
+        "shooting": 62,
+        "tackling": 68,
+        "passing": 76,
+        "strength": 70,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Penrith United",
+      "position": "RM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "shPH6aRCbbGCP6a4l5wWD",
+      "name": "William Tyler",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 81,
+        "speed": 82,
+        "shooting": 75,
+        "tackling": 95,
+        "passing": 82,
+        "strength": 66,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Penrith United",
+      "position": "CF",
+      "level": "PRO"
+    },
+    {
+      "id": "xckivZw_dfuPMcoswEy2u",
+      "name": "Ferdinando Gonnelli",
+      "overall_rating": 77,
+      "skill": {
+        "dribbling": 82,
+        "speed": 82,
+        "shooting": 75,
+        "tackling": 71,
+        "passing": 80,
+        "strength": 76,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Penrith United",
+      "position": "CF",
+      "level": "PRO"
+    }
+  ],
+  "Chester FC": [
+    {
+      "id": "hPem8Lcd7MhIxGH9GZbMs",
+      "name": "Roy Douglas",
+      "overall_rating": 90,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 87,
+        "strength": 89,
+        "gk_saving": 93,
+        "gk_reactions": 91
+      },
+      "team": "Chester FC",
+      "position": "GK",
+      "level": "LEGEND"
+    },
+    {
+      "id": "PBVe_pu-KC5TTnTZS1qH9",
+      "name": "Enrico Nesti",
+      "overall_rating": 85,
+      "skill": {
+        "dribbling": 70,
+        "speed": 80,
+        "shooting": 94,
+        "tackling": 89,
+        "passing": 88,
+        "strength": 94,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Chester FC",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "NXNtESrvjTBR3uWaJ784u",
+      "name": "Andre Nunez",
+      "overall_rating": 70,
+      "skill": {
+        "dribbling": 74,
+        "speed": 65,
+        "shooting": 92,
+        "tackling": 62,
+        "passing": 64,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Chester FC",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "PawnBkQ7tT5CCS8bihUog",
+      "name": "David Romiti",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 90,
+        "speed": 97,
+        "shooting": 88,
+        "tackling": 84,
+        "passing": 84,
+        "strength": 82,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Chester FC",
+      "position": "LB",
+      "level": "PRO"
+    },
+    {
+      "id": "eeX4NOeRxVvo3WYslTSe0",
+      "name": "Matthew Watson",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 73,
+        "speed": 65,
+        "shooting": 79,
+        "tackling": 89,
+        "passing": 93,
+        "strength": 86,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Chester FC",
+      "position": "RB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "g6QFpus4Y43w24-2JqyT7",
+      "name": "Claudio Tassini",
+      "overall_rating": 66,
+      "skill": {
+        "dribbling": 63,
+        "speed": 63,
+        "shooting": 62,
+        "tackling": 60,
+        "passing": 63,
+        "strength": 89,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Chester FC",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "p-GYKBEuwij7aBU2mqITp",
+      "name": "Landon King",
+      "overall_rating": 64,
+      "skill": {
+        "dribbling": 63,
+        "speed": 64,
+        "shooting": 62,
+        "tackling": 63,
+        "passing": 70,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Chester FC",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "PYpCIOzMyCwM3U9AHp7GW",
+      "name": "Matteo Tacchi",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": 76,
+        "speed": 80,
+        "shooting": 78,
+        "tackling": 99,
+        "passing": 80,
+        "strength": 79,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Chester FC",
+      "position": "LM",
+      "level": "PRO"
+    },
+    {
+      "id": "iv4f3zU02xJtNaXCnvlHZ",
+      "name": "Dennis Cunningham",
+      "overall_rating": 66,
+      "skill": {
+        "dribbling": 62,
+        "speed": 64,
+        "shooting": 62,
+        "tackling": 84,
+        "passing": 63,
+        "strength": 61,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Chester FC",
+      "position": "RM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "fXQx0yIcaHoFV4JmA6V4t",
+      "name": "Thomas Frilli",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": 89,
+        "speed": 89,
+        "shooting": 88,
+        "tackling": 62,
+        "passing": 92,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Chester FC",
+      "position": "CF",
+      "level": "LEGEND"
+    },
+    {
+      "id": "SwvzJ95ji4_dGinzvLadb",
+      "name": "Lawrence Wheeler",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 80,
+        "speed": 79,
+        "shooting": 76,
+        "tackling": 82,
+        "passing": 79,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Chester FC",
+      "position": "CF",
+      "level": "PRO"
+    }
+  ],
+  "Southwold Warriors": [
+    {
+      "id": "vvWUw6a6he3_b6Ohpw4--",
+      "name": "Jesus Maldonado",
+      "overall_rating": 90,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 92,
+        "strength": 89,
+        "gk_saving": 86,
+        "gk_reactions": 94
+      },
+      "team": "Southwold Warriors",
+      "position": "GK",
+      "level": "LEGEND"
+    },
+    {
+      "id": "2FpMdxe5S6XLfO6TJddzk",
+      "name": "Herman Alvarez",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": 78,
+        "speed": 73,
+        "shooting": 69,
+        "tackling": 90,
+        "passing": 93,
+        "strength": 91,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Southwold Warriors",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "_nafAyvCNLCRzqFB3YJfW",
+      "name": "Dean Pratt",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 81,
+        "speed": 95,
+        "shooting": 80,
+        "tackling": 92,
+        "passing": 87,
+        "strength": 90,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Southwold Warriors",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "_JFAy42qVu0UciMKTnl5c",
+      "name": "Juan Bennett",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 90,
+        "speed": 84,
+        "shooting": 73,
+        "tackling": 76,
+        "passing": 77,
+        "strength": 76,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Southwold Warriors",
+      "position": "LB",
+      "level": "PRO"
+    },
+    {
+      "id": "BM_IuKNd_uRM4_zH1NpEn",
+      "name": "Tom Chavez",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 74,
+        "speed": 92,
+        "shooting": 62,
+        "tackling": 81,
+        "passing": 81,
+        "strength": 81,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Southwold Warriors",
+      "position": "RB",
+      "level": "PRO"
+    },
+    {
+      "id": "klJrlkvhj72eti0OcDMYL",
+      "name": "Landon Rodgers",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 62,
+        "speed": 61,
+        "shooting": 61,
+        "tackling": 62,
+        "passing": 74,
+        "strength": 96,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Southwold Warriors",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "K59DrUx1FQG4svExFnlAq",
+      "name": "Alejandro Erickson",
+      "overall_rating": 86,
+      "skill": {
+        "dribbling": 87,
+        "speed": 87,
+        "shooting": 87,
+        "tackling": 89,
+        "passing": 71,
+        "strength": 99,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Southwold Warriors",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "eYeZIfnYjXluhPPTE4jHT",
+      "name": "Niccolò Magnolfi",
+      "overall_rating": 62,
+      "skill": {
+        "dribbling": 60,
+        "speed": 63,
+        "shooting": 63,
+        "tackling": 63,
+        "passing": 64,
+        "strength": 60,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Southwold Warriors",
+      "position": "LM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "W7rVKmrYmmMp5A7UP4LZV",
+      "name": "Dario Berni",
+      "overall_rating": 71,
+      "skill": {
+        "dribbling": 61,
+        "speed": 63,
+        "shooting": 62,
+        "tackling": 90,
+        "passing": 79,
+        "strength": 71,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Southwold Warriors",
+      "position": "RM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "7LWGGMlcKlPgXi0pk-sXm",
+      "name": "Gianfranco Serra",
+      "overall_rating": 85,
+      "skill": {
+        "dribbling": 89,
+        "speed": 85,
+        "shooting": 93,
+        "tackling": 75,
+        "passing": 93,
+        "strength": 79,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Southwold Warriors",
+      "position": "CF",
+      "level": "LEGEND"
+    },
+    {
+      "id": "Qy-hwuYmLctrfjzfYAiRf",
+      "name": "Gianluca Lastrucci",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 92,
+        "speed": 89,
+        "shooting": 92,
+        "tackling": 88,
+        "passing": 92,
+        "strength": 71,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Southwold Warriors",
+      "position": "CF",
+      "level": "LEGEND"
+    }
+  ],
+  "Guthram FC": [
+    {
+      "id": "Kh4rHrLW1up-1zvW3g114",
+      "name": "Rolando Michelozzi",
+      "overall_rating": 88,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 87,
+        "strength": 86,
+        "gk_saving": 90,
+        "gk_reactions": 92
+      },
+      "team": "Guthram FC",
+      "position": "GK",
+      "level": "LEGEND"
+    },
+    {
+      "id": "T2r9RWoyupQQw-KcG50hE",
+      "name": "Renzo Bartolini",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": 81,
+        "speed": 90,
+        "shooting": 80,
+        "tackling": 76,
+        "passing": 82,
+        "strength": 83,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Guthram FC",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "K4fCPefvcDuYtuVx914tD",
+      "name": "Corey French",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 78,
+        "speed": 80,
+        "shooting": 69,
+        "tackling": 75,
+        "passing": 78,
+        "strength": 80,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Guthram FC",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "a5sJNYtbYSc1uXTcyjK87",
+      "name": "Rodney Gill",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 71,
+        "speed": 72,
+        "shooting": 90,
+        "tackling": 60,
+        "passing": 64,
+        "strength": 61,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Guthram FC",
+      "position": "LB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "dMQY_88WM7IBFldYxCGMQ",
+      "name": "Matteo Cicali",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 67,
+        "speed": 83,
+        "shooting": 95,
+        "tackling": 77,
+        "passing": 76,
+        "strength": 82,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Guthram FC",
+      "position": "RB",
+      "level": "PRO"
+    },
+    {
+      "id": "WsxbCSsca1oyVNx_N4Ll0",
+      "name": "Alessio Bargiacchi",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 80,
+        "speed": 79,
+        "shooting": 79,
+        "tackling": 77,
+        "passing": 79,
+        "strength": 75,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Guthram FC",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "qKeosdYJC-gADgGlEg0Tz",
+      "name": "Renato Alfani",
+      "overall_rating": 67,
+      "skill": {
+        "dribbling": 64,
+        "speed": 61,
+        "shooting": 63,
+        "tackling": 84,
+        "passing": 75,
+        "strength": 60,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Guthram FC",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "rCfw8ooUI35HZsw-90W_J",
+      "name": "Gregorio Chellini",
+      "overall_rating": 65,
+      "skill": {
+        "dribbling": 60,
+        "speed": 63,
+        "shooting": 64,
+        "tackling": 62,
+        "passing": 80,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Guthram FC",
+      "position": "LM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "CLVtTESIjXkAhAsMadGwI",
+      "name": "Gino Rigacci",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 83,
+        "speed": 77,
+        "shooting": 77,
+        "tackling": 78,
+        "passing": 83,
+        "strength": 73,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Guthram FC",
+      "position": "RM",
+      "level": "PRO"
+    },
+    {
+      "id": "1_2iFibpokwo0sRfOlmdn",
+      "name": "Sergio Balloni",
+      "overall_rating": 66,
+      "skill": {
+        "dribbling": 60,
+        "speed": 64,
+        "shooting": 62,
+        "tackling": 83,
+        "passing": 63,
+        "strength": 66,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Guthram FC",
+      "position": "CF",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "z1AIObHgTk6lquHMioD70",
+      "name": "Sergio Guarnieri",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 85,
+        "speed": 92,
+        "shooting": 92,
+        "tackling": 74,
+        "passing": 88,
+        "strength": 78,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Guthram FC",
+      "position": "CF",
+      "level": "LEGEND"
+    }
+  ],
+  "Warlington Knights": [
+    {
+      "id": "SWnbDZmKEqlsvQoNm-37e",
+      "name": "Pier Luigi Tanini",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 76,
+        "strength": 75,
+        "gk_saving": 79,
+        "gk_reactions": 84
+      },
+      "team": "Warlington Knights",
+      "position": "GK",
+      "level": "PRO"
+    },
+    {
+      "id": "xh6NfEeJlqN1oeP_JvHqw",
+      "name": "Chester Tran",
+      "overall_rating": 68,
+      "skill": {
+        "dribbling": 65,
+        "speed": 83,
+        "shooting": 72,
+        "tackling": 64,
+        "passing": 63,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Warlington Knights",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "sJjTOnjfOOqvHZn6Tsg8A",
+      "name": "Elia Materassi",
+      "overall_rating": 77,
+      "skill": {
+        "dribbling": 95,
+        "speed": 68,
+        "shooting": 73,
+        "tackling": 78,
+        "passing": 75,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Warlington Knights",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "k2j_8J2P7XFF0tmhLIG-u",
+      "name": "Wesley Bush",
+      "overall_rating": 68,
+      "skill": {
+        "dribbling": 67,
+        "speed": 97,
+        "shooting": 60,
+        "tackling": 60,
+        "passing": 63,
+        "strength": 61,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Warlington Knights",
+      "position": "LB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "67-xIAwnrWHBFKHd5Y8_n",
+      "name": "Giulio Gori",
+      "overall_rating": 86,
+      "skill": {
+        "dribbling": 90,
+        "speed": 88,
+        "shooting": 73,
+        "tackling": 90,
+        "passing": 88,
+        "strength": 92,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Warlington Knights",
+      "position": "RB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "NtQv3nGfgzflGwNNrNVTF",
+      "name": "Gabriele Carrai",
+      "overall_rating": 68,
+      "skill": {
+        "dribbling": 64,
+        "speed": 64,
+        "shooting": 63,
+        "tackling": 93,
+        "passing": 61,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Warlington Knights",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "b_T9WDoytS55A1QGgm5OD",
+      "name": "Gianfranco Malavolti",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 94,
+        "speed": 86,
+        "shooting": 88,
+        "tackling": 61,
+        "passing": 80,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Warlington Knights",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "TmdewCPDrkq-SL9GjnEeQ",
+      "name": "Chris Vega",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 93,
+        "speed": 91,
+        "shooting": 93,
+        "tackling": 89,
+        "passing": 91,
+        "strength": 68,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Warlington Knights",
+      "position": "LM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "aIN4NRt16mv7X5BPsSJmb",
+      "name": "Remo Xu",
+      "overall_rating": 61,
+      "skill": {
+        "dribbling": 60,
+        "speed": 60,
+        "shooting": 63,
+        "tackling": 61,
+        "passing": 63,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Warlington Knights",
+      "position": "RM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "HqIU5t1lqLqoHAlcj2K0T",
+      "name": "Bruce Valdez",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 61,
+        "speed": 63,
+        "shooting": 60,
+        "tackling": 91,
+        "passing": 64,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Warlington Knights",
+      "position": "CF",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "EKNsgxYQEt29bINfjas9m",
+      "name": "Emanuele Montagni",
+      "overall_rating": 83,
+      "skill": {
+        "dribbling": 90,
+        "speed": 91,
+        "shooting": 93,
+        "tackling": 61,
+        "passing": 92,
+        "strength": 73,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Warlington Knights",
+      "position": "CF",
+      "level": "LEGEND"
+    }
+  ],
+  "MillerVille FC": [
+    {
+      "id": "TGW_amtvqY62Vje1Q53un",
+      "name": "Jacopo Santoro",
+      "overall_rating": 60,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 61,
+        "strength": 62,
+        "gk_saving": 60,
+        "gk_reactions": 60
+      },
+      "team": "MillerVille FC",
+      "position": "GK",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "d5HwXxMsg7tjNzzEBHbik",
+      "name": "Giuseppe Righini",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 67,
+        "speed": 66,
+        "shooting": 72,
+        "tackling": 88,
+        "passing": 93,
+        "strength": 92,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "MillerVille FC",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "7sy-6DkRIUu_iJMvfAVFx",
+      "name": "Adolfo Mele",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 66,
+        "speed": 81,
+        "shooting": 78,
+        "tackling": 79,
+        "passing": 83,
+        "strength": 84,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "MillerVille FC",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "TAVY1udO0-WQ3xgaWB4bz",
+      "name": "Piero Ballini",
+      "overall_rating": 86,
+      "skill": {
+        "dribbling": 77,
+        "speed": 85,
+        "shooting": 84,
+        "tackling": 87,
+        "passing": 93,
+        "strength": 91,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "MillerVille FC",
+      "position": "LB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "Q_41F4Wy49IpScsKEoNwm",
+      "name": "Hunter Jones",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": 87,
+        "speed": 90,
+        "shooting": 76,
+        "tackling": 82,
+        "passing": 78,
+        "strength": 83,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "MillerVille FC",
+      "position": "RB",
+      "level": "PRO"
+    },
+    {
+      "id": "k7qDcoQXOPSIsleVfMKv9",
+      "name": "Cristian Lunghi",
+      "overall_rating": 75,
+      "skill": {
+        "dribbling": 80,
+        "speed": 82,
+        "shooting": 83,
+        "tackling": 64,
+        "passing": 74,
+        "strength": 70,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "MillerVille FC",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "c5wCzSOtYor1l0lEiYFCF",
+      "name": "Gabriele Cecchini",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 78,
+        "speed": 78,
+        "shooting": 83,
+        "tackling": 70,
+        "passing": 76,
+        "strength": 75,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "MillerVille FC",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "RlMp7J2kgl00vKNagxrDi",
+      "name": "Vincent George",
+      "overall_rating": 88,
+      "skill": {
+        "dribbling": 93,
+        "speed": 86,
+        "shooting": 89,
+        "tackling": 88,
+        "passing": 87,
+        "strength": 85,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "MillerVille FC",
+      "position": "LM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "6-in_SkGwdePK5-OQKGAW",
+      "name": "Corey Schneider",
+      "overall_rating": 86,
+      "skill": {
+        "dribbling": 89,
+        "speed": 90,
+        "shooting": 90,
+        "tackling": 92,
+        "passing": 94,
+        "strength": 66,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "MillerVille FC",
+      "position": "RM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "Zv8GrLoQSkIdR7uOfZjeT",
+      "name": "Pietro Berlincioni",
+      "overall_rating": 64,
+      "skill": {
+        "dribbling": 62,
+        "speed": 61,
+        "shooting": 62,
+        "tackling": 75,
+        "passing": 60,
+        "strength": 66,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "MillerVille FC",
+      "position": "CF",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "T0Ll_u1zQl7Ph1mQfWMTt",
+      "name": "Matteo Ferroni",
+      "overall_rating": 67,
+      "skill": {
+        "dribbling": 64,
+        "speed": 63,
+        "shooting": 63,
+        "tackling": 88,
+        "passing": 64,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "MillerVille FC",
+      "position": "CF",
+      "level": "ROOKIE"
+    }
+  ],
+  "Timberwolf FC": [
+    {
+      "id": "HnBMilEuxV7RiDTsqHuCj",
+      "name": "Jesus Reed",
+      "overall_rating": 62,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 62,
+        "strength": 63,
+        "gk_saving": 60,
+        "gk_reactions": 64
+      },
+      "team": "Timberwolf FC",
+      "position": "GK",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "49Va-o94vZe2maHLag7U-",
+      "name": "Eddie Newman",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 97,
+        "speed": 98,
+        "shooting": 80,
+        "tackling": 63,
+        "passing": 60,
+        "strength": 60,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Timberwolf FC",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "R9V_ULCaYaS7FtJ4DH7WW",
+      "name": "Paolo Dong",
+      "overall_rating": 73,
+      "skill": {
+        "dribbling": 74,
+        "speed": 99,
+        "shooting": 82,
+        "tackling": 61,
+        "passing": 62,
+        "strength": 61,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Timberwolf FC",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "NOVRR2nboN0cLOqrrvhpL",
+      "name": "Eric Marshall",
+      "overall_rating": 77,
+      "skill": {
+        "dribbling": 77,
+        "speed": 78,
+        "shooting": 74,
+        "tackling": 78,
+        "passing": 79,
+        "strength": 78,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Timberwolf FC",
+      "position": "LB",
+      "level": "PRO"
+    },
+    {
+      "id": "2JZ7nv-u-u_EDiqJjsJTk",
+      "name": "Corey Hansen",
+      "overall_rating": 89,
+      "skill": {
+        "dribbling": 91,
+        "speed": 83,
+        "shooting": 82,
+        "tackling": 94,
+        "passing": 92,
+        "strength": 93,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Timberwolf FC",
+      "position": "RB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "mx-Ux0DDyo5pBr7_OiKJH",
+      "name": "Emilio Lucherini",
+      "overall_rating": 85,
+      "skill": {
+        "dribbling": 88,
+        "speed": 88,
+        "shooting": 85,
+        "tackling": 98,
+        "passing": 87,
+        "strength": 69,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Timberwolf FC",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "050Bb_IifBkcozEUb8lnB",
+      "name": "Umberto Ferrante",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 77,
+        "speed": 76,
+        "shooting": 81,
+        "tackling": 81,
+        "passing": 79,
+        "strength": 82,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Timberwolf FC",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "BAhgQyxsXXtKpekLqwajL",
+      "name": "Tyler Medina",
+      "overall_rating": 66,
+      "skill": {
+        "dribbling": 60,
+        "speed": 64,
+        "shooting": 60,
+        "tackling": 62,
+        "passing": 83,
+        "strength": 67,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Timberwolf FC",
+      "position": "LM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "WZ9v_Klgill-C44HZuFby",
+      "name": "Mirko Berti",
+      "overall_rating": 86,
+      "skill": {
+        "dribbling": 86,
+        "speed": 89,
+        "shooting": 86,
+        "tackling": 69,
+        "passing": 92,
+        "strength": 96,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Timberwolf FC",
+      "position": "RM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "3OQsYwIu4SasOS2dTPgMu",
+      "name": "Valter Fedi",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 93,
+        "speed": 94,
+        "shooting": 90,
+        "tackling": 76,
+        "passing": 87,
+        "strength": 67,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Timberwolf FC",
+      "position": "CF",
+      "level": "LEGEND"
+    },
+    {
+      "id": "ELDkANhGTEMdSaHRYbJxT",
+      "name": "Marcello Lapi",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 76,
+        "speed": 82,
+        "shooting": 81,
+        "tackling": 90,
+        "passing": 84,
+        "strength": 65,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Timberwolf FC",
+      "position": "CF",
+      "level": "PRO"
+    }
+  ],
+  "Lancaster United": [
+    {
+      "id": "ATbP8F4ZFwo9c8qUbxTbE",
+      "name": "Alvin Mason",
+      "overall_rating": 90,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 94,
+        "strength": 85,
+        "gk_saving": 91,
+        "gk_reactions": 91
+      },
+      "team": "Lancaster United",
+      "position": "GK",
+      "level": "LEGEND"
+    },
+    {
+      "id": "1HqjLY2CyWpfkyXJwihZF",
+      "name": "Giuliano Zhou",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 78,
+        "speed": 85,
+        "shooting": 63,
+        "tackling": 63,
+        "passing": 64,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lancaster United",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "xXah-hzsaH4xigpkq8wpp",
+      "name": "Franco Papi",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": 74,
+        "speed": 86,
+        "shooting": 90,
+        "tackling": 77,
+        "passing": 76,
+        "strength": 84,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lancaster United",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "PIq1VzddWr_cfCx5sLwX8",
+      "name": "Joel Jennings",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": 88,
+        "speed": 71,
+        "shooting": 98,
+        "tackling": 81,
+        "passing": 76,
+        "strength": 75,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lancaster United",
+      "position": "LB",
+      "level": "PRO"
+    },
+    {
+      "id": "sXYX68cIn7zjt-UrQMehc",
+      "name": "Todd Rice",
+      "overall_rating": 70,
+      "skill": {
+        "dribbling": 92,
+        "speed": 80,
+        "shooting": 61,
+        "tackling": 62,
+        "passing": 64,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lancaster United",
+      "position": "RB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "gFBKzDqfzf4xjstKnufRj",
+      "name": "Jim Higgins",
+      "overall_rating": 72,
+      "skill": {
+        "dribbling": 61,
+        "speed": 63,
+        "shooting": 64,
+        "tackling": 84,
+        "passing": 71,
+        "strength": 90,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lancaster United",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "Gi77hlykJxkqWnCpG6PNV",
+      "name": "Charles Harper",
+      "overall_rating": 91,
+      "skill": {
+        "dribbling": 93,
+        "speed": 89,
+        "shooting": 94,
+        "tackling": 93,
+        "passing": 94,
+        "strength": 88,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lancaster United",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "aqxbYgVNBIxYYt3YJOFDB",
+      "name": "Jerry McKinney",
+      "overall_rating": 75,
+      "skill": {
+        "dribbling": 77,
+        "speed": 77,
+        "shooting": 75,
+        "tackling": 61,
+        "passing": 84,
+        "strength": 80,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lancaster United",
+      "position": "LM",
+      "level": "PRO"
+    },
+    {
+      "id": "S0DGgAJPt8eR3YIC6zUXo",
+      "name": "Carl Roberts",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 83,
+        "speed": 82,
+        "shooting": 84,
+        "tackling": 84,
+        "passing": 72,
+        "strength": 78,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lancaster United",
+      "position": "RM",
+      "level": "PRO"
+    },
+    {
+      "id": "BCR1UU3wI7Iudm3t07FWI",
+      "name": "Corey Hart",
+      "overall_rating": 62,
+      "skill": {
+        "dribbling": 64,
+        "speed": 60,
+        "shooting": 61,
+        "tackling": 64,
+        "passing": 63,
+        "strength": 60,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lancaster United",
+      "position": "CF",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "lwiVFjiOtWNHV6tVDr23l",
+      "name": "Dino Rossini",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 81,
+        "speed": 76,
+        "shooting": 77,
+        "tackling": 86,
+        "passing": 80,
+        "strength": 71,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Lancaster United",
+      "position": "CF",
+      "level": "PRO"
+    }
+  ],
+  "Wellspring Thunder": [
+    {
+      "id": "I-ArOCKGfi-w0IAg-94ms",
+      "name": "Noah Martinez",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 87,
+        "strength": 85,
+        "gk_saving": 88,
+        "gk_reactions": 88
+      },
+      "team": "Wellspring Thunder",
+      "position": "GK",
+      "level": "LEGEND"
+    },
+    {
+      "id": "ZfV-3mX0k2mxNYyIjicKj",
+      "name": "Umberto Formigli",
+      "overall_rating": 77,
+      "skill": {
+        "dribbling": 94,
+        "speed": 70,
+        "shooting": 73,
+        "tackling": 76,
+        "passing": 78,
+        "strength": 76,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Wellspring Thunder",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "pvLpDu-oE_By2ycDDk-GR",
+      "name": "Julian Little",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 92,
+        "speed": 82,
+        "shooting": 95,
+        "tackling": 62,
+        "passing": 61,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Wellspring Thunder",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "0ecLId5d2hzwyvEtJwAWB",
+      "name": "Dario Bernardi",
+      "overall_rating": 83,
+      "skill": {
+        "dribbling": 65,
+        "speed": 79,
+        "shooting": 91,
+        "tackling": 92,
+        "passing": 89,
+        "strength": 86,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Wellspring Thunder",
+      "position": "LB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "TqfXd75bBLRBVCwikvfOJ",
+      "name": "Troy Weaver",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 70,
+        "speed": 89,
+        "shooting": 72,
+        "tackling": 82,
+        "passing": 81,
+        "strength": 81,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Wellspring Thunder",
+      "position": "RB",
+      "level": "PRO"
+    },
+    {
+      "id": "eVALNNrFtQ06bC4cbCCqv",
+      "name": "Don Carroll",
+      "overall_rating": 88,
+      "skill": {
+        "dribbling": 88,
+        "speed": 87,
+        "shooting": 91,
+        "tackling": 92,
+        "passing": 78,
+        "strength": 97,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Wellspring Thunder",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "P5r_NP7xBlGnf1tilZnL5",
+      "name": "Jon Walsh",
+      "overall_rating": 70,
+      "skill": {
+        "dribbling": 60,
+        "speed": 62,
+        "shooting": 64,
+        "tackling": 64,
+        "passing": 74,
+        "strength": 96,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Wellspring Thunder",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "4CrAv58gUseML6Ozl_cik",
+      "name": "Travis Massey",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 90,
+        "speed": 93,
+        "shooting": 88,
+        "tackling": 68,
+        "passing": 84,
+        "strength": 86,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Wellspring Thunder",
+      "position": "LM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "RH_NoyCq3fiXqeiu7-3wb",
+      "name": "Ivan Black",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 78,
+        "speed": 80,
+        "shooting": 81,
+        "tackling": 77,
+        "passing": 75,
+        "strength": 78,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Wellspring Thunder",
+      "position": "RM",
+      "level": "PRO"
+    },
+    {
+      "id": "QYMl_cLQ-ubr47o15ZnCg",
+      "name": "Louis Johnston",
+      "overall_rating": 65,
+      "skill": {
+        "dribbling": 61,
+        "speed": 60,
+        "shooting": 64,
+        "tackling": 85,
+        "passing": 62,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Wellspring Thunder",
+      "position": "CF",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "-as_xNmUvK6xlG8NnuO-k",
+      "name": "Trevor West",
+      "overall_rating": 65,
+      "skill": {
+        "dribbling": 62,
+        "speed": 60,
+        "shooting": 62,
+        "tackling": 67,
+        "passing": 64,
+        "strength": 76,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Wellspring Thunder",
+      "position": "CF",
+      "level": "ROOKIE"
+    }
+  ],
+  "Landow FC": [
+    {
+      "id": "eZRPqPe6gvtttw3JdDm9F",
+      "name": "Clyde Pena",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 76,
+        "strength": 76,
+        "gk_saving": 78,
+        "gk_reactions": 83
+      },
+      "team": "Landow FC",
+      "position": "GK",
+      "level": "PRO"
+    },
+    {
+      "id": "tr4M8QGB4u_GxxEFf_KVV",
+      "name": "Mauro Fedi",
+      "overall_rating": 71,
+      "skill": {
+        "dribbling": 91,
+        "speed": 89,
+        "shooting": 64,
+        "tackling": 61,
+        "passing": 62,
+        "strength": 60,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Landow FC",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "_7jX5l4bKYwu9IIKLjrXz",
+      "name": "Albert Spencer",
+      "overall_rating": 74,
+      "skill": {
+        "dribbling": 94,
+        "speed": 72,
+        "shooting": 93,
+        "tackling": 64,
+        "passing": 63,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Landow FC",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "39UCgfcHnzmr6-SV2DslA",
+      "name": "Giuseppe Pieroni",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 69,
+        "speed": 74,
+        "shooting": 74,
+        "tackling": 85,
+        "passing": 87,
+        "strength": 93,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Landow FC",
+      "position": "LB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "ILiW2FRZhcr2SNFMfgTCy",
+      "name": "Anthony Williams",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 84,
+        "speed": 95,
+        "shooting": 79,
+        "tackling": 90,
+        "passing": 85,
+        "strength": 90,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Landow FC",
+      "position": "RB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "Qf30UYaiavQG3UZ8ed9_w",
+      "name": "Andre Hines",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 64,
+        "speed": 62,
+        "shooting": 64,
+        "tackling": 82,
+        "passing": 82,
+        "strength": 65,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Landow FC",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "tUHnLclwbDqqP9S54IgDv",
+      "name": "Benjamin Manning",
+      "overall_rating": 64,
+      "skill": {
+        "dribbling": 63,
+        "speed": 61,
+        "shooting": 62,
+        "tackling": 62,
+        "passing": 75,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Landow FC",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "KWeKFu42MUMaBnCdL2vQf",
+      "name": "Leonard Curtis",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 75,
+        "speed": 83,
+        "shooting": 80,
+        "tackling": 77,
+        "passing": 80,
+        "strength": 87,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Landow FC",
+      "position": "LM",
+      "level": "PRO"
+    },
+    {
+      "id": "hP8s30I10MJbsjyNORMpm",
+      "name": "Matteo Barni",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": 75,
+        "speed": 79,
+        "shooting": 81,
+        "tackling": 91,
+        "passing": 74,
+        "strength": 96,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Landow FC",
+      "position": "RM",
+      "level": "PRO"
+    },
+    {
+      "id": "eJVFR5beDgYN_G3T3w1_j",
+      "name": "Henry French",
+      "overall_rating": 68,
+      "skill": {
+        "dribbling": 62,
+        "speed": 62,
+        "shooting": 61,
+        "tackling": 94,
+        "passing": 64,
+        "strength": 69,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Landow FC",
+      "position": "CF",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "OexqJoNx5UUc8xyvdAcd5",
+      "name": "Federico Pieralli",
+      "overall_rating": 83,
+      "skill": {
+        "dribbling": 92,
+        "speed": 87,
+        "shooting": 90,
+        "tackling": 74,
+        "passing": 86,
+        "strength": 69,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Landow FC",
+      "position": "CF",
+      "level": "LEGEND"
+    }
+  ],
+  "Kingsmen United": [
+    {
+      "id": "0HhTOc1oZp9xG_LNy0MrY",
+      "name": "Paolo Dumitru",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 77,
+        "strength": 83,
+        "gk_saving": 77,
+        "gk_reactions": 77
+      },
+      "team": "Kingsmen United",
+      "position": "GK",
+      "level": "PRO"
+    },
+    {
+      "id": "sX-XrCGLgmipG3iNCjTKY",
+      "name": "Blake Jenkins",
+      "overall_rating": 72,
+      "skill": {
+        "dribbling": 84,
+        "speed": 92,
+        "shooting": 69,
+        "tackling": 64,
+        "passing": 64,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Kingsmen United",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "7C3nBRcMd1QwdATqYicg4",
+      "name": "Glen Wright",
+      "overall_rating": 71,
+      "skill": {
+        "dribbling": 88,
+        "speed": 90,
+        "shooting": 68,
+        "tackling": 60,
+        "passing": 60,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Kingsmen United",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "wOawsHOXSfH1a_1XCYk7A",
+      "name": "Paolo Zoppi",
+      "overall_rating": 67,
+      "skill": {
+        "dribbling": 91,
+        "speed": 67,
+        "shooting": 64,
+        "tackling": 62,
+        "passing": 62,
+        "strength": 60,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Kingsmen United",
+      "position": "LB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "zk-RDp99XBQOo8GZ1L_aQ",
+      "name": "Graziano Conti",
+      "overall_rating": 71,
+      "skill": {
+        "dribbling": 81,
+        "speed": 86,
+        "shooting": 81,
+        "tackling": 62,
+        "passing": 60,
+        "strength": 61,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Kingsmen United",
+      "position": "RB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "PzxBP3J8HescDLfn4mxIL",
+      "name": "Caleb Moore",
+      "overall_rating": 64,
+      "skill": {
+        "dribbling": 60,
+        "speed": 63,
+        "shooting": 61,
+        "tackling": 60,
+        "passing": 81,
+        "strength": 60,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Kingsmen United",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "25mkWeculmEZCNqVWrpd9",
+      "name": "Mirko Raddi",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": 77,
+        "speed": 84,
+        "shooting": 76,
+        "tackling": 79,
+        "passing": 84,
+        "strength": 95,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Kingsmen United",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "FlFe8oMO1mMuafK7jrjs1",
+      "name": "Manuel Benvenuti",
+      "overall_rating": 72,
+      "skill": {
+        "dribbling": 62,
+        "speed": 64,
+        "shooting": 62,
+        "tackling": 98,
+        "passing": 84,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Kingsmen United",
+      "position": "LM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "3HUxWM5IxZCB59b6FsKed",
+      "name": "Ralph Mann",
+      "overall_rating": 89,
+      "skill": {
+        "dribbling": 86,
+        "speed": 86,
+        "shooting": 92,
+        "tackling": 85,
+        "passing": 94,
+        "strength": 91,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Kingsmen United",
+      "position": "RM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "CQBaXzHS8WMcvsDHZyMOw",
+      "name": "Jacob Bradley",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 91,
+        "speed": 92,
+        "shooting": 94,
+        "tackling": 74,
+        "passing": 93,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Kingsmen United",
+      "position": "CF",
+      "level": "LEGEND"
+    },
+    {
+      "id": "raAoGscfSsdebrOAOgh2L",
+      "name": "Blake Byrd",
+      "overall_rating": 63,
+      "skill": {
+        "dribbling": 61,
+        "speed": 62,
+        "shooting": 60,
+        "tackling": 70,
+        "passing": 64,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Kingsmen United",
+      "position": "CF",
+      "level": "ROOKIE"
+    }
+  ],
+  "Banderland United": [
+    {
+      "id": "ESw4TLuJbFKO4twpOOYuk",
+      "name": "Fernando Chiesi",
+      "overall_rating": 61,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 62,
+        "strength": 62,
+        "gk_saving": 60,
+        "gk_reactions": 62
+      },
+      "team": "Banderland United",
+      "position": "GK",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "uOsH1r8et4plQhsR9pR9y",
+      "name": "Gino Ferraro",
+      "overall_rating": 89,
+      "skill": {
+        "dribbling": 85,
+        "speed": 96,
+        "shooting": 89,
+        "tackling": 88,
+        "passing": 91,
+        "strength": 89,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Banderland United",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "GVNaQhGC3h4IxySKjkqUb",
+      "name": "Thomas Young",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": 78,
+        "speed": 72,
+        "shooting": 97,
+        "tackling": 82,
+        "passing": 79,
+        "strength": 80,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Banderland United",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "kESlEO4ofo_Me2i_q4WWj",
+      "name": "Craig Miller",
+      "overall_rating": 86,
+      "skill": {
+        "dribbling": 84,
+        "speed": 68,
+        "shooting": 95,
+        "tackling": 93,
+        "passing": 88,
+        "strength": 88,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Banderland United",
+      "position": "LB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "WAvJ0HIoQEAO3fzEEjvHA",
+      "name": "Cameron Harris",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 74,
+        "speed": 77,
+        "shooting": 77,
+        "tackling": 62,
+        "passing": 63,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Banderland United",
+      "position": "RB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "cvLUAcfPrG7wSeoCm84s-",
+      "name": "Fabio Curradi",
+      "overall_rating": 68,
+      "skill": {
+        "dribbling": 63,
+        "speed": 64,
+        "shooting": 60,
+        "tackling": 61,
+        "passing": 72,
+        "strength": 93,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Banderland United",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "N9RksLDJpVyFyYKXmpKiQ",
+      "name": "Andrea Mancini",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 83,
+        "speed": 76,
+        "shooting": 81,
+        "tackling": 75,
+        "passing": 83,
+        "strength": 75,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Banderland United",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "E5-e_9hV00miKErLwW-6D",
+      "name": "Bernardo Pieraccini",
+      "overall_rating": 90,
+      "skill": {
+        "dribbling": 90,
+        "speed": 92,
+        "shooting": 94,
+        "tackling": 87,
+        "passing": 93,
+        "strength": 88,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Banderland United",
+      "position": "LM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "1cJYFI5rsPLtsIgBUQ2r4",
+      "name": "Enzo Scopetani",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 78,
+        "speed": 80,
+        "shooting": 83,
+        "tackling": 63,
+        "passing": 79,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Banderland United",
+      "position": "RM",
+      "level": "PRO"
+    },
+    {
+      "id": "cFQKShQT0WF39KbhwqKJP",
+      "name": "Joseph Herrera",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 81,
+        "speed": 78,
+        "shooting": 79,
+        "tackling": 69,
+        "passing": 84,
+        "strength": 68,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Banderland United",
+      "position": "CF",
+      "level": "PRO"
+    },
+    {
+      "id": "EZMIysF8z2YVB7-RAt5lP",
+      "name": "Thomas Chiavacci",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 92,
+        "speed": 89,
+        "shooting": 86,
+        "tackling": 85,
+        "passing": 94,
+        "strength": 61,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Banderland United",
+      "position": "CF",
+      "level": "LEGEND"
+    }
+  ],
+  "Armagon FC": [
+    {
+      "id": "4-2z1Kjx-8UcT3WjVNWxt",
+      "name": "Warren Robertson",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 84,
+        "strength": 76,
+        "gk_saving": 79,
+        "gk_reactions": 78
+      },
+      "team": "Armagon FC",
+      "position": "GK",
+      "level": "PRO"
+    },
+    {
+      "id": "X9yGMsiUsNGZEdQ7_A8G7",
+      "name": "Johnny Rice",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 80,
+        "speed": 91,
+        "shooting": 67,
+        "tackling": 92,
+        "passing": 88,
+        "strength": 87,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Armagon FC",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "VXj3gu6Ids5Q-_7_0tHrM",
+      "name": "Gianni Wu",
+      "overall_rating": 74,
+      "skill": {
+        "dribbling": 68,
+        "speed": 68,
+        "shooting": 83,
+        "tackling": 76,
+        "passing": 75,
+        "strength": 78,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Armagon FC",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "RzKG1FcjkZO6yvM8tTznP",
+      "name": "Michele Pasquini",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 74,
+        "speed": 71,
+        "shooting": 94,
+        "tackling": 80,
+        "passing": 78,
+        "strength": 84,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Armagon FC",
+      "position": "LB",
+      "level": "PRO"
+    },
+    {
+      "id": "JyQE9Nq5wqsWBpwj0WGXx",
+      "name": "Lloyd Cannon",
+      "overall_rating": 85,
+      "skill": {
+        "dribbling": 77,
+        "speed": 93,
+        "shooting": 71,
+        "tackling": 92,
+        "passing": 87,
+        "strength": 92,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Armagon FC",
+      "position": "RB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "oAPx4m7JIyLDCWqYoRQNd",
+      "name": "Alberto Parisi",
+      "overall_rating": 66,
+      "skill": {
+        "dribbling": 64,
+        "speed": 61,
+        "shooting": 64,
+        "tackling": 63,
+        "passing": 82,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Armagon FC",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "jE2c4jCB-NrNvAMA3cvE-",
+      "name": "Bruno Marchi",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 77,
+        "speed": 75,
+        "shooting": 83,
+        "tackling": 76,
+        "passing": 83,
+        "strength": 90,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Armagon FC",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "0gdw1theXUZeZGLvlBwmp",
+      "name": "Umberto Anichini",
+      "overall_rating": 66,
+      "skill": {
+        "dribbling": 63,
+        "speed": 64,
+        "shooting": 63,
+        "tackling": 79,
+        "passing": 70,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Armagon FC",
+      "position": "LM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "Wptsash4b74mPKFfUYFT5",
+      "name": "Oscar Cobb",
+      "overall_rating": 88,
+      "skill": {
+        "dribbling": 86,
+        "speed": 91,
+        "shooting": 91,
+        "tackling": 93,
+        "passing": 86,
+        "strength": 85,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Armagon FC",
+      "position": "RM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "PeogvD3vWsf6ISH-Mu93z",
+      "name": "Nathaniel Moore",
+      "overall_rating": 75,
+      "skill": {
+        "dribbling": 81,
+        "speed": 76,
+        "shooting": 84,
+        "tackling": 68,
+        "passing": 76,
+        "strength": 69,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Armagon FC",
+      "position": "CF",
+      "level": "PRO"
+    },
+    {
+      "id": "IGD_r7nzsQi2fZZI64pOV",
+      "name": "Garrett Bryan",
+      "overall_rating": 66,
+      "skill": {
+        "dribbling": 61,
+        "speed": 62,
+        "shooting": 64,
+        "tackling": 82,
+        "passing": 60,
+        "strength": 72,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Armagon FC",
+      "position": "CF",
+      "level": "ROOKIE"
+    }
+  ],
+  "Ruthorham Crusaders": [
+    {
+      "id": "Oeqdb9LUJCNq1wX0BT2FJ",
+      "name": "Iacopo Calabrese",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 76,
+        "strength": 83,
+        "gk_saving": 81,
+        "gk_reactions": 84
+      },
+      "team": "Ruthorham Crusaders",
+      "position": "GK",
+      "level": "PRO"
+    },
+    {
+      "id": "k8WM-m2hua27XY5sB8Qvu",
+      "name": "Lloyd Singleton",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 80,
+        "speed": 70,
+        "shooting": 64,
+        "tackling": 81,
+        "passing": 83,
+        "strength": 79,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Ruthorham Crusaders",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "v3bQcnT47NpbEsvZw6Ftk",
+      "name": "Darrell Caldwell",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 67,
+        "speed": 79,
+        "shooting": 69,
+        "tackling": 85,
+        "passing": 93,
+        "strength": 92,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Ruthorham Crusaders",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "R2OzcYZhz710-BpzX7hoR",
+      "name": "Valerio Barducci",
+      "overall_rating": 85,
+      "skill": {
+        "dribbling": 96,
+        "speed": 90,
+        "shooting": 61,
+        "tackling": 86,
+        "passing": 87,
+        "strength": 92,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Ruthorham Crusaders",
+      "position": "LB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "BVGpUHHsAhwO3kBo-Y73o",
+      "name": "Maurice Ray",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 71,
+        "speed": 72,
+        "shooting": 83,
+        "tackling": 81,
+        "passing": 75,
+        "strength": 78,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Ruthorham Crusaders",
+      "position": "RB",
+      "level": "PRO"
+    },
+    {
+      "id": "sAywWs0Xj653KSHY3VWab",
+      "name": "David Borchi",
+      "overall_rating": 65,
+      "skill": {
+        "dribbling": 62,
+        "speed": 64,
+        "shooting": 63,
+        "tackling": 62,
+        "passing": 76,
+        "strength": 66,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Ruthorham Crusaders",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "8mWo7MjIXyWQFkZsF1w7-",
+      "name": "Bradley Briggs",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": 77,
+        "speed": 84,
+        "shooting": 78,
+        "tackling": 97,
+        "passing": 84,
+        "strength": 75,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Ruthorham Crusaders",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "bMCXDIR_r6T3JmgYfvAS5",
+      "name": "Adolfo Catarzi",
+      "overall_rating": 83,
+      "skill": {
+        "dribbling": 84,
+        "speed": 80,
+        "shooting": 79,
+        "tackling": 96,
+        "passing": 83,
+        "strength": 80,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Ruthorham Crusaders",
+      "position": "LM",
+      "level": "PRO"
+    },
+    {
+      "id": "muki1gLLrMGne8i6utxON",
+      "name": "Shane Henderson",
+      "overall_rating": 64,
+      "skill": {
+        "dribbling": 64,
+        "speed": 63,
+        "shooting": 63,
+        "tackling": 60,
+        "passing": 61,
+        "strength": 76,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Ruthorham Crusaders",
+      "position": "RM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "kFQRxzfkv01YlZ7dvl8G9",
+      "name": "Lee Wallace",
+      "overall_rating": 65,
+      "skill": {
+        "dribbling": 63,
+        "speed": 64,
+        "shooting": 61,
+        "tackling": 80,
+        "passing": 60,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Ruthorham Crusaders",
+      "position": "CF",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "Uv17l9fJqn0fev9HHUgfR",
+      "name": "Attilio Fantini",
+      "overall_rating": 75,
+      "skill": {
+        "dribbling": 79,
+        "speed": 77,
+        "shooting": 80,
+        "tackling": 73,
+        "passing": 78,
+        "strength": 68,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Ruthorham Crusaders",
+      "position": "CF",
+      "level": "PRO"
+    }
+  ],
+  "Belton Knights": [
+    {
+      "id": "imiOiSJ2sc0EX-Wnz4EfR",
+      "name": "Marino Franceschi",
+      "overall_rating": 61,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 60,
+        "strength": 60,
+        "gk_saving": 62,
+        "gk_reactions": 64
+      },
+      "team": "Belton Knights",
+      "position": "GK",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "DzfOMup1t8XOnB53fYPsk",
+      "name": "Andrea Palchetti",
+      "overall_rating": 70,
+      "skill": {
+        "dribbling": 86,
+        "speed": 81,
+        "shooting": 66,
+        "tackling": 62,
+        "passing": 64,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Belton Knights",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "C43oBS8LFBCaPn4ZG9F6U",
+      "name": "Giovanni Chiti",
+      "overall_rating": 83,
+      "skill": {
+        "dribbling": 65,
+        "speed": 93,
+        "shooting": 99,
+        "tackling": 82,
+        "passing": 83,
+        "strength": 80,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Belton Knights",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "UGh43jiV83d_hgteWxyKF",
+      "name": "Giulio Pini",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": 92,
+        "speed": 93,
+        "shooting": 68,
+        "tackling": 78,
+        "passing": 79,
+        "strength": 76,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Belton Knights",
+      "position": "LB",
+      "level": "PRO"
+    },
+    {
+      "id": "arH3PFiWdgJyDIoHcobt1",
+      "name": "Francis McCarthy",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 90,
+        "speed": 97,
+        "shooting": 81,
+        "tackling": 75,
+        "passing": 81,
+        "strength": 81,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Belton Knights",
+      "position": "RB",
+      "level": "PRO"
+    },
+    {
+      "id": "fE9pE0wqugT3oMKw56rcu",
+      "name": "Simone Cardini",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 84,
+        "speed": 76,
+        "shooting": 79,
+        "tackling": 79,
+        "passing": 81,
+        "strength": 79,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Belton Knights",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "Zw_2B6C8TVy1EF4BkYd66",
+      "name": "Warren Tucker",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 76,
+        "speed": 84,
+        "shooting": 80,
+        "tackling": 82,
+        "passing": 80,
+        "strength": 78,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Belton Knights",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "esGiPk1Danh8n0M5ewpx2",
+      "name": "Diego Tacchi",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 87,
+        "speed": 90,
+        "shooting": 88,
+        "tackling": 90,
+        "passing": 80,
+        "strength": 89,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Belton Knights",
+      "position": "LM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "7xcxaj-mBK4ll1EP7uiRD",
+      "name": "Gabriele Braccini",
+      "overall_rating": 67,
+      "skill": {
+        "dribbling": 61,
+        "speed": 62,
+        "shooting": 61,
+        "tackling": 64,
+        "passing": 84,
+        "strength": 73,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Belton Knights",
+      "position": "RM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "v3DMrwZDOeHipMG8dXF5r",
+      "name": "Marcus Miller",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": 78,
+        "speed": 82,
+        "shooting": 82,
+        "tackling": 98,
+        "passing": 79,
+        "strength": 74,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Belton Knights",
+      "position": "CF",
+      "level": "PRO"
+    },
+    {
+      "id": "l4XVdsYdiUF-dA-0okx3e",
+      "name": "Clyde Chapman",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 80,
+        "speed": 78,
+        "shooting": 82,
+        "tackling": 95,
+        "passing": 75,
+        "strength": 75,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Belton Knights",
+      "position": "CF",
+      "level": "PRO"
+    }
+  ],
+  "Aerilon FC": [
+    {
+      "id": "qy8Yq4jxl2MzqWw7EuYQH",
+      "name": "Edoardo Serra",
+      "overall_rating": 91,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 94,
+        "strength": 94,
+        "gk_saving": 88,
+        "gk_reactions": 91
+      },
+      "team": "Aerilon FC",
+      "position": "GK",
+      "level": "LEGEND"
+    },
+    {
+      "id": "PKAi30eRWAUhoIc1nWOdw",
+      "name": "Steve Lamb",
+      "overall_rating": 89,
+      "skill": {
+        "dribbling": 97,
+        "speed": 91,
+        "shooting": 71,
+        "tackling": 89,
+        "passing": 92,
+        "strength": 94,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Aerilon FC",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "1VWsoqHmn9FzC1Ys6xbJJ",
+      "name": "Alessio Ranieri",
+      "overall_rating": 72,
+      "skill": {
+        "dribbling": 80,
+        "speed": 82,
+        "shooting": 89,
+        "tackling": 61,
+        "passing": 61,
+        "strength": 60,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Aerilon FC",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "xbAG80V_0ZpR5r39oXQF5",
+      "name": "Jorge Rose",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 68,
+        "speed": 71,
+        "shooting": 74,
+        "tackling": 77,
+        "passing": 84,
+        "strength": 82,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Aerilon FC",
+      "position": "LB",
+      "level": "PRO"
+    },
+    {
+      "id": "t6LgaURLyLwzLC7nes6If",
+      "name": "Alberto Giani",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 80,
+        "speed": 96,
+        "shooting": 93,
+        "tackling": 60,
+        "passing": 63,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Aerilon FC",
+      "position": "RB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "MAbUVW_1RmFw5vhiXHcWh",
+      "name": "Isaiah McCoy",
+      "overall_rating": 85,
+      "skill": {
+        "dribbling": 91,
+        "speed": 87,
+        "shooting": 88,
+        "tackling": 90,
+        "passing": 73,
+        "strength": 84,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Aerilon FC",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "c8R8XwlIcJkVGjhGEK0Hd",
+      "name": "Alberto Cardini",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": 79,
+        "speed": 77,
+        "shooting": 80,
+        "tackling": 80,
+        "passing": 83,
+        "strength": 87,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Aerilon FC",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "TpXKCzPp0p8P6ByQHKk5F",
+      "name": "Mike Chandler",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 77,
+        "speed": 83,
+        "shooting": 77,
+        "tackling": 81,
+        "passing": 82,
+        "strength": 84,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Aerilon FC",
+      "position": "LM",
+      "level": "PRO"
+    },
+    {
+      "id": "f5klAovtLY0t39fd9Um7U",
+      "name": "Alexander Morgan",
+      "overall_rating": 83,
+      "skill": {
+        "dribbling": 93,
+        "speed": 92,
+        "shooting": 85,
+        "tackling": 61,
+        "passing": 80,
+        "strength": 87,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Aerilon FC",
+      "position": "RM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "uJQ1V0CnmKn5yD39R3omW",
+      "name": "Ricky Mathis",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 81,
+        "speed": 79,
+        "shooting": 75,
+        "tackling": 97,
+        "passing": 82,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Aerilon FC",
+      "position": "CF",
+      "level": "PRO"
+    },
+    {
+      "id": "UzEppi931G8ygVgCsimBI",
+      "name": "Keith Valdez",
+      "overall_rating": 88,
+      "skill": {
+        "dribbling": 90,
+        "speed": 94,
+        "shooting": 90,
+        "tackling": 92,
+        "passing": 85,
+        "strength": 78,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Aerilon FC",
+      "position": "CF",
+      "level": "LEGEND"
+    }
+  ],
+  "Malta United": [
+    {
+      "id": "-YxmrRomJJaz9Y7xvc6fa",
+      "name": "Antonio Corti",
+      "overall_rating": 92,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 90,
+        "strength": 94,
+        "gk_saving": 93,
+        "gk_reactions": 92
+      },
+      "team": "Malta United",
+      "position": "GK",
+      "level": "LEGEND"
+    },
+    {
+      "id": "3nTRV_6KKOq7s7kbNNobG",
+      "name": "Luca Tempesti",
+      "overall_rating": 77,
+      "skill": {
+        "dribbling": 98,
+        "speed": 83,
+        "shooting": 95,
+        "tackling": 61,
+        "passing": 62,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Malta United",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "Pdzcpv_b1SI6VyCcCTuIY",
+      "name": "Cosimo Soldi",
+      "overall_rating": 70,
+      "skill": {
+        "dribbling": 65,
+        "speed": 76,
+        "shooting": 95,
+        "tackling": 63,
+        "passing": 62,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Malta United",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "G84RqfZUcoF-YxRDz-psy",
+      "name": "Adolfo Salvini",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 99,
+        "speed": 94,
+        "shooting": 84,
+        "tackling": 63,
+        "passing": 60,
+        "strength": 61,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Malta United",
+      "position": "LB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "CyqcDzr8kFQ3hM-S04Rr-",
+      "name": "Bernardo Mazzetti",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 71,
+        "speed": 69,
+        "shooting": 82,
+        "tackling": 79,
+        "passing": 78,
+        "strength": 78,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Malta United",
+      "position": "RB",
+      "level": "PRO"
+    },
+    {
+      "id": "PGc939QUjx6m7FsqG48vH",
+      "name": "Gianluca Batacchi",
+      "overall_rating": 90,
+      "skill": {
+        "dribbling": 93,
+        "speed": 87,
+        "shooting": 94,
+        "tackling": 90,
+        "passing": 93,
+        "strength": 88,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Malta United",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "pkR_Qe9XxvVxj7fXp-fPl",
+      "name": "Randall Quinn",
+      "overall_rating": 83,
+      "skill": {
+        "dribbling": 80,
+        "speed": 77,
+        "shooting": 83,
+        "tackling": 96,
+        "passing": 80,
+        "strength": 82,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Malta United",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "GRWA3fhCxmDn6KDGuWgut",
+      "name": "Alexander Potter",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 60,
+        "speed": 62,
+        "shooting": 62,
+        "tackling": 89,
+        "passing": 75,
+        "strength": 69,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Malta United",
+      "position": "LM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "oLUoTOP0lFzWeW5w5wfBM",
+      "name": "Ettore Marino",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 79,
+        "speed": 84,
+        "shooting": 75,
+        "tackling": 84,
+        "passing": 81,
+        "strength": 79,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Malta United",
+      "position": "RM",
+      "level": "PRO"
+    },
+    {
+      "id": "Q8a7CEHScLn-ZzlN2pf-1",
+      "name": "Frank Bates",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 84,
+        "speed": 82,
+        "shooting": 78,
+        "tackling": 97,
+        "passing": 77,
+        "strength": 67,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Malta United",
+      "position": "CF",
+      "level": "PRO"
+    },
+    {
+      "id": "2omNCtDpa2-3642qke2Wn",
+      "name": "Iacopo Battaglini",
+      "overall_rating": 68,
+      "skill": {
+        "dribbling": 64,
+        "speed": 64,
+        "shooting": 60,
+        "tackling": 85,
+        "passing": 63,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Malta United",
+      "position": "CF",
+      "level": "ROOKIE"
+    }
+  ],
+  "Frostford Eagles": [
+    {
+      "id": "RmDthQgtTiEvvTCLJXdiJ",
+      "name": "Sean Gilbert",
+      "overall_rating": 89,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 89,
+        "strength": 86,
+        "gk_saving": 90,
+        "gk_reactions": 94
+      },
+      "team": "Frostford Eagles",
+      "position": "GK",
+      "level": "LEGEND"
+    },
+    {
+      "id": "DaJb-ELLCR45sZaTvlAB2",
+      "name": "Miguel Mack",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 88,
+        "speed": 79,
+        "shooting": 89,
+        "tackling": 86,
+        "passing": 89,
+        "strength": 94,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Frostford Eagles",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "Q7B2mY21v1hlaSXQXeooD",
+      "name": "Marvin Moore",
+      "overall_rating": 67,
+      "skill": {
+        "dribbling": 83,
+        "speed": 76,
+        "shooting": 63,
+        "tackling": 62,
+        "passing": 60,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Frostford Eagles",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "oSTselEGbHYXT67eLlubF",
+      "name": "Jose Wise",
+      "overall_rating": 72,
+      "skill": {
+        "dribbling": 84,
+        "speed": 67,
+        "shooting": 97,
+        "tackling": 62,
+        "passing": 62,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Frostford Eagles",
+      "position": "LB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "siQ1oA0QYqEADwYtFyOj7",
+      "name": "Fernando Fancelli",
+      "overall_rating": 72,
+      "skill": {
+        "dribbling": 82,
+        "speed": 79,
+        "shooting": 86,
+        "tackling": 62,
+        "passing": 61,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Frostford Eagles",
+      "position": "RB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "fh9I3Bsl1l4_qz3Tv4bSm",
+      "name": "Angiolo Bettini",
+      "overall_rating": 92,
+      "skill": {
+        "dribbling": 94,
+        "speed": 91,
+        "shooting": 92,
+        "tackling": 88,
+        "passing": 93,
+        "strength": 94,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Frostford Eagles",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "pePoOj4BFMO4J_fVxGc3D",
+      "name": "Joe Maldonado",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 64,
+        "speed": 64,
+        "shooting": 61,
+        "tackling": 80,
+        "passing": 84,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Frostford Eagles",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "kjEnWrj4sD3xLIktrDa0Z",
+      "name": "Remo Baronti",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 79,
+        "speed": 82,
+        "shooting": 77,
+        "tackling": 82,
+        "passing": 70,
+        "strength": 80,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Frostford Eagles",
+      "position": "LM",
+      "level": "PRO"
+    },
+    {
+      "id": "2xX-9L4wt8s2OfKW9duVG",
+      "name": "Michael Hicks",
+      "overall_rating": 61,
+      "skill": {
+        "dribbling": 61,
+        "speed": 61,
+        "shooting": 63,
+        "tackling": 63,
+        "passing": 60,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Frostford Eagles",
+      "position": "RM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "tQAz4UyujGpMAa8BmoFxJ",
+      "name": "Salvatore Puccioni",
+      "overall_rating": 70,
+      "skill": {
+        "dribbling": 64,
+        "speed": 61,
+        "shooting": 63,
+        "tackling": 97,
+        "passing": 63,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Frostford Eagles",
+      "position": "CF",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "gWdzGaxFHmEmSUiAm51NA",
+      "name": "Sean French",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 93,
+        "speed": 88,
+        "shooting": 89,
+        "tackling": 92,
+        "passing": 87,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Frostford Eagles",
+      "position": "CF",
+      "level": "LEGEND"
+    }
+  ],
+  "Garmsby Blazers": [
+    {
+      "id": "hE0ZwYdSBhyOUNoIv7okP",
+      "name": "Emilio Faggi",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 83,
+        "strength": 81,
+        "gk_saving": 76,
+        "gk_reactions": 82
+      },
+      "team": "Garmsby Blazers",
+      "position": "GK",
+      "level": "PRO"
+    },
+    {
+      "id": "ds82iLmiP79FANRea9pb0",
+      "name": "Diego Di Marco",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 92,
+        "speed": 74,
+        "shooting": 73,
+        "tackling": 94,
+        "passing": 87,
+        "strength": 88,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Garmsby Blazers",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "KLl0BJlVJSeYxN06nfhWh",
+      "name": "Glenn Haynes",
+      "overall_rating": 89,
+      "skill": {
+        "dribbling": 96,
+        "speed": 72,
+        "shooting": 97,
+        "tackling": 90,
+        "passing": 86,
+        "strength": 94,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Garmsby Blazers",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "qokMTi3o1g4k23W1dYGXF",
+      "name": "Simone Mauro",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 73,
+        "speed": 77,
+        "shooting": 83,
+        "tackling": 94,
+        "passing": 91,
+        "strength": 87,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Garmsby Blazers",
+      "position": "LB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "IaBA3DrtRvKlagWP4qOzh",
+      "name": "Calvin Moran",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 94,
+        "speed": 91,
+        "shooting": 66,
+        "tackling": 87,
+        "passing": 94,
+        "strength": 90,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Garmsby Blazers",
+      "position": "RB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "15clqpffiFMoYh67cx8Mq",
+      "name": "Sergio Marchetti",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 76,
+        "speed": 80,
+        "shooting": 77,
+        "tackling": 96,
+        "passing": 72,
+        "strength": 79,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Garmsby Blazers",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "bfFdFSA-v2UW-XAkHJo2N",
+      "name": "Edoardo Romano",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 85,
+        "speed": 89,
+        "shooting": 93,
+        "tackling": 66,
+        "passing": 86,
+        "strength": 88,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Garmsby Blazers",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "WW3KYHQL1u4qHK0SM_-AR",
+      "name": "Paolo Moretti",
+      "overall_rating": 88,
+      "skill": {
+        "dribbling": 86,
+        "speed": 90,
+        "shooting": 88,
+        "tackling": 85,
+        "passing": 90,
+        "strength": 93,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Garmsby Blazers",
+      "position": "LM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "9vPaxT_GQ2BuZZ2CQJ4nR",
+      "name": "Edoardo Fontanelli",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 86,
+        "speed": 88,
+        "shooting": 89,
+        "tackling": 83,
+        "passing": 93,
+        "strength": 65,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Garmsby Blazers",
+      "position": "RM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "eL1WhI9ADJrSS6byNampu",
+      "name": "Andrea Ducci",
+      "overall_rating": 64,
+      "skill": {
+        "dribbling": 64,
+        "speed": 63,
+        "shooting": 61,
+        "tackling": 75,
+        "passing": 63,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Garmsby Blazers",
+      "position": "CF",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "eoBXvzz3GVUYCwXdhfQIO",
+      "name": "Bruno Clemente",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 81,
+        "speed": 84,
+        "shooting": 79,
+        "tackling": 91,
+        "passing": 75,
+        "strength": 65,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Garmsby Blazers",
+      "position": "CF",
+      "level": "PRO"
+    }
+  ],
+  "Hardersfield United": [
+    {
+      "id": "50DvnN2Jng50u2MpCKsGK",
+      "name": "Max Salazar",
+      "overall_rating": 62,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 61,
+        "strength": 63,
+        "gk_saving": 61,
+        "gk_reactions": 63
+      },
+      "team": "Hardersfield United",
+      "position": "GK",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "RhzB5yGQAoyE44_uOtlwv",
+      "name": "Lester Brock",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 83,
+        "speed": 95,
+        "shooting": 78,
+        "tackling": 87,
+        "passing": 88,
+        "strength": 91,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Hardersfield United",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "TwyafbiCIol2BgzeDKUHd",
+      "name": "Iacopo Magnani",
+      "overall_rating": 68,
+      "skill": {
+        "dribbling": 92,
+        "speed": 65,
+        "shooting": 66,
+        "tackling": 63,
+        "passing": 60,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Hardersfield United",
+      "position": "CB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "fws9kUH_FO58vhLszWYmk",
+      "name": "Cosimo Bongini",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": 72,
+        "speed": 79,
+        "shooting": 60,
+        "tackling": 94,
+        "passing": 93,
+        "strength": 92,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Hardersfield United",
+      "position": "LB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "POQFn4qOWIDHDEt49lYr2",
+      "name": "Milton Clarke",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 80,
+        "speed": 91,
+        "shooting": 90,
+        "tackling": 92,
+        "passing": 86,
+        "strength": 85,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Hardersfield United",
+      "position": "RB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "iPmzyarnbB7UkvTpM0PKS",
+      "name": "Diego Donnini",
+      "overall_rating": 66,
+      "skill": {
+        "dribbling": 62,
+        "speed": 61,
+        "shooting": 64,
+        "tackling": 71,
+        "passing": 75,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Hardersfield United",
+      "position": "CM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "PSg5DRL2hgXYJi9Dwqbmr",
+      "name": "Otello Betti",
+      "overall_rating": 83,
+      "skill": {
+        "dribbling": 94,
+        "speed": 89,
+        "shooting": 90,
+        "tackling": 70,
+        "passing": 70,
+        "strength": 89,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Hardersfield United",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "qov5uULQ7lA9xgENrgW7H",
+      "name": "Thomas Berti",
+      "overall_rating": 91,
+      "skill": {
+        "dribbling": 88,
+        "speed": 94,
+        "shooting": 93,
+        "tackling": 88,
+        "passing": 94,
+        "strength": 94,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Hardersfield United",
+      "position": "LM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "bVC1XzWsArhy5BaPx-Pf2",
+      "name": "Stanley Chapman",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 63,
+        "speed": 63,
+        "shooting": 62,
+        "tackling": 84,
+        "passing": 79,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Hardersfield United",
+      "position": "RM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "5e_wvWGTeUOW-ScNblwSB",
+      "name": "Jerry Reid",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 64,
+        "speed": 63,
+        "shooting": 60,
+        "tackling": 99,
+        "passing": 63,
+        "strength": 65,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Hardersfield United",
+      "position": "CF",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "uM2PiCS18PlAfsesz6oZr",
+      "name": "Glenn Carlson",
+      "overall_rating": 85,
+      "skill": {
+        "dribbling": 88,
+        "speed": 94,
+        "shooting": 85,
+        "tackling": 93,
+        "passing": 86,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Hardersfield United",
+      "position": "CF",
+      "level": "LEGEND"
+    }
+  ],
+  "Dalmerlington Knights": [
+    {
+      "id": "GyAnU_vl52lIO9A03zcRG",
+      "name": "Roy Swanson",
+      "overall_rating": 61,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 63,
+        "strength": 62,
+        "gk_saving": 60,
+        "gk_reactions": 62
+      },
+      "team": "Dalmerlington Knights",
+      "position": "GK",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "Abd0taLOEvznTbtdUI_Ca",
+      "name": "Scott Atkins",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": 65,
+        "speed": 95,
+        "shooting": 93,
+        "tackling": 81,
+        "passing": 77,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Dalmerlington Knights",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "zfjW92Ff855EzLYRSWS1Z",
+      "name": "Pier Luigi Raugei",
+      "overall_rating": 83,
+      "skill": {
+        "dribbling": 87,
+        "speed": 92,
+        "shooting": 87,
+        "tackling": 75,
+        "passing": 76,
+        "strength": 83,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Dalmerlington Knights",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "xNvgvXZamCN7d0NjvLIMy",
+      "name": "Alan Lawson",
+      "overall_rating": 78,
+      "skill": {
+        "dribbling": 96,
+        "speed": 94,
+        "shooting": 93,
+        "tackling": 61,
+        "passing": 63,
+        "strength": 63,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Dalmerlington Knights",
+      "position": "LB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "RQOyV8mB08lGzlShG85P4",
+      "name": "Mattia Jin",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 76,
+        "speed": 69,
+        "shooting": 76,
+        "tackling": 87,
+        "passing": 85,
+        "strength": 87,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Dalmerlington Knights",
+      "position": "RB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "05cXNf9K3u70izAPqueEw",
+      "name": "Peter Schmidt",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": 81,
+        "speed": 84,
+        "shooting": 81,
+        "tackling": 94,
+        "passing": 70,
+        "strength": 76,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Dalmerlington Knights",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "zoOIR0ILr17KJEBBr9xUn",
+      "name": "Manuel Chiarelli",
+      "overall_rating": 86,
+      "skill": {
+        "dribbling": 89,
+        "speed": 88,
+        "shooting": 93,
+        "tackling": 94,
+        "passing": 71,
+        "strength": 86,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Dalmerlington Knights",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "S7aDoNJgnINlBaLZg6KHi",
+      "name": "Giorgio Mazzetti",
+      "overall_rating": 61,
+      "skill": {
+        "dribbling": 60,
+        "speed": 60,
+        "shooting": 61,
+        "tackling": 64,
+        "passing": 60,
+        "strength": 61,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Dalmerlington Knights",
+      "position": "LM",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "o4rtpBrrVl3LwQhLKGRrX",
+      "name": "Eugene Smith",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 83,
+        "speed": 81,
+        "shooting": 76,
+        "tackling": 66,
+        "passing": 75,
+        "strength": 80,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Dalmerlington Knights",
+      "position": "RM",
+      "level": "PRO"
+    },
+    {
+      "id": "pv7geEGv0EOeZPDciD0ig",
+      "name": "Ferdinando Paoli",
+      "overall_rating": 85,
+      "skill": {
+        "dribbling": 91,
+        "speed": 94,
+        "shooting": 88,
+        "tackling": 74,
+        "passing": 88,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Dalmerlington Knights",
+      "position": "CF",
+      "level": "LEGEND"
+    },
+    {
+      "id": "yDd3bXzmG4fabN9aCUgOC",
+      "name": "Edoardo Piccardi",
+      "overall_rating": 70,
+      "skill": {
+        "dribbling": 60,
+        "speed": 61,
+        "shooting": 64,
+        "tackling": 96,
+        "passing": 62,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Dalmerlington Knights",
+      "position": "CF",
+      "level": "ROOKIE"
+    }
+  ],
+  "Blue Field FC": [
+    {
+      "id": "_Ox-cUWwTKgaonK07V0QB",
+      "name": "Romano Fontanelli",
+      "overall_rating": 62,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 63,
+        "strength": 63,
+        "gk_saving": 62,
+        "gk_reactions": 62
+      },
+      "team": "Blue Field FC",
+      "position": "GK",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "DwDiE3zZYod-SeZSxes94",
+      "name": "Guido Caciolli",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 73,
+        "speed": 99,
+        "shooting": 70,
+        "tackling": 75,
+        "passing": 84,
+        "strength": 79,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Blue Field FC",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "bjNv7ig9ODuXoGRL_pyoO",
+      "name": "Dario Taddei",
+      "overall_rating": 85,
+      "skill": {
+        "dribbling": 73,
+        "speed": 86,
+        "shooting": 86,
+        "tackling": 92,
+        "passing": 91,
+        "strength": 86,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Blue Field FC",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "kclIaKulHKtQU9wYvWqO2",
+      "name": "Wayne Hamilton",
+      "overall_rating": 86,
+      "skill": {
+        "dribbling": 76,
+        "speed": 80,
+        "shooting": 84,
+        "tackling": 93,
+        "passing": 92,
+        "strength": 91,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Blue Field FC",
+      "position": "LB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "Vfu0p8dIdca81ooSR76yE",
+      "name": "David Hogan",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 66,
+        "speed": 81,
+        "shooting": 82,
+        "tackling": 60,
+        "passing": 64,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Blue Field FC",
+      "position": "RB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "-LMjFSDSswqS2xrgSACoS",
+      "name": "Neri Simoncini",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 88,
+        "speed": 90,
+        "shooting": 86,
+        "tackling": 85,
+        "passing": 70,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Blue Field FC",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "hIecfAaBZysXxDVk9pYiz",
+      "name": "Tommy Lowe",
+      "overall_rating": 79,
+      "skill": {
+        "dribbling": 78,
+        "speed": 82,
+        "shooting": 84,
+        "tackling": 81,
+        "passing": 72,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Blue Field FC",
+      "position": "CM",
+      "level": "PRO"
+    },
+    {
+      "id": "O9nktC6hCb4kSs-zDnz0o",
+      "name": "Giorgio Rontini",
+      "overall_rating": 76,
+      "skill": {
+        "dribbling": 76,
+        "speed": 78,
+        "shooting": 77,
+        "tackling": 76,
+        "passing": 71,
+        "strength": 83,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Blue Field FC",
+      "position": "LM",
+      "level": "PRO"
+    },
+    {
+      "id": "v6iwjjFbrSmPrWy3F0ugW",
+      "name": "Caleb Fletcher",
+      "overall_rating": 89,
+      "skill": {
+        "dribbling": 88,
+        "speed": 89,
+        "shooting": 91,
+        "tackling": 88,
+        "passing": 93,
+        "strength": 89,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Blue Field FC",
+      "position": "RM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "HuhuFgrfWDRgJHq4A-7MN",
+      "name": "Erik Thornton",
+      "overall_rating": 75,
+      "skill": {
+        "dribbling": 78,
+        "speed": 79,
+        "shooting": 77,
+        "tackling": 75,
+        "passing": 78,
+        "strength": 64,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Blue Field FC",
+      "position": "CF",
+      "level": "PRO"
+    },
+    {
+      "id": "TS1iT1kH_pF23j4Bkox8N",
+      "name": "Massimo Cavallini",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 89,
+        "speed": 92,
+        "shooting": 92,
+        "tackling": 68,
+        "passing": 90,
+        "strength": 73,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Blue Field FC",
+      "position": "CF",
+      "level": "LEGEND"
+    }
+  ],
+  "Queenstown United": [
+    {
+      "id": "oulTe6G8dXgLQztspmuNS",
+      "name": "Dylan Douglas",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": null,
+        "speed": null,
+        "shooting": null,
+        "tackling": null,
+        "passing": 84,
+        "strength": 80,
+        "gk_saving": 84,
+        "gk_reactions": 81
+      },
+      "team": "Queenstown United",
+      "position": "GK",
+      "level": "PRO"
+    },
+    {
+      "id": "MQ1upJgbOW9N3WCm8c18B",
+      "name": "Alan Willis",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": 98,
+        "speed": 83,
+        "shooting": 66,
+        "tackling": 82,
+        "passing": 83,
+        "strength": 80,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Queenstown United",
+      "position": "CB",
+      "level": "PRO"
+    },
+    {
+      "id": "qpl_ArCinRcQuirQS8sIY",
+      "name": "Raffaele Forte",
+      "overall_rating": 87,
+      "skill": {
+        "dribbling": 67,
+        "speed": 86,
+        "shooting": 97,
+        "tackling": 89,
+        "passing": 92,
+        "strength": 91,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Queenstown United",
+      "position": "CB",
+      "level": "LEGEND"
+    },
+    {
+      "id": "PCjZwhs7CuqKeqPZsTLAC",
+      "name": "Mitchell Harrington",
+      "overall_rating": 69,
+      "skill": {
+        "dribbling": 76,
+        "speed": 85,
+        "shooting": 67,
+        "tackling": 64,
+        "passing": 63,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Queenstown United",
+      "position": "LB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "5xTSFqMstPNa3-xCOZaEb",
+      "name": "Thomas Nannucci",
+      "overall_rating": 74,
+      "skill": {
+        "dribbling": 86,
+        "speed": 97,
+        "shooting": 82,
+        "tackling": 61,
+        "passing": 61,
+        "strength": 61,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Queenstown United",
+      "position": "RB",
+      "level": "ROOKIE"
+    },
+    {
+      "id": "WgEBzaVGLSlQ5qB3apMFm",
+      "name": "Enrico Nigi",
+      "overall_rating": 88,
+      "skill": {
+        "dribbling": 94,
+        "speed": 91,
+        "shooting": 91,
+        "tackling": 82,
+        "passing": 73,
+        "strength": 99,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Queenstown United",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "UBey9ug3SWks7rlqRPnHN",
+      "name": "Vasco Ciatti",
+      "overall_rating": 84,
+      "skill": {
+        "dribbling": 85,
+        "speed": 86,
+        "shooting": 94,
+        "tackling": 88,
+        "passing": 78,
+        "strength": 77,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Queenstown United",
+      "position": "CM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "fJ4jU8nMrQh6vzOzDdIkV",
+      "name": "Gianmarco Poggiolini",
+      "overall_rating": 90,
+      "skill": {
+        "dribbling": 91,
+        "speed": 93,
+        "shooting": 91,
+        "tackling": 93,
+        "passing": 82,
+        "strength": 93,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Queenstown United",
+      "position": "LM",
+      "level": "LEGEND"
+    },
+    {
+      "id": "XbmMmwCLmfWIOcJhgLYRg",
+      "name": "Gene Haynes",
+      "overall_rating": 80,
+      "skill": {
+        "dribbling": 78,
+        "speed": 75,
+        "shooting": 83,
+        "tackling": 76,
+        "passing": 80,
+        "strength": 92,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Queenstown United",
+      "position": "RM",
+      "level": "PRO"
+    },
+    {
+      "id": "dzF76JOfMh5hwItYK9x_9",
+      "name": "Joe Cruz",
+      "overall_rating": 82,
+      "skill": {
+        "dribbling": 90,
+        "speed": 90,
+        "shooting": 88,
+        "tackling": 79,
+        "passing": 88,
+        "strength": 62,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Queenstown United",
+      "position": "CF",
+      "level": "LEGEND"
+    },
+    {
+      "id": "T9sFLR7uoHhp70mY828yB",
+      "name": "Bruno Basile",
+      "overall_rating": 81,
+      "skill": {
+        "dribbling": 77,
+        "speed": 81,
+        "shooting": 84,
+        "tackling": 84,
+        "passing": 84,
+        "strength": 79,
+        "gk_saving": null,
+        "gk_reactions": null
+      },
+      "team": "Queenstown United",
+      "position": "CF",
+      "level": "PRO"
+    }
+  ]
+}

@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate-players": "ts-node src/scripts/generatePlayers.ts"
+    "generate-players": "ts-node src/scripts/generatePlayers.ts",
+    "team-ovr": "ts-node src/scripts/calculateTeamOvr.ts"
   },
   "keywords": [],
   "author": "",
@@ -14,13 +15,17 @@
     "chance": "^1.1.7",
     "faker": "^5.5.3",
     "fs-extra": "^10.0.0",
+    "lodash": "^4.17.21",
+    "lowdb": "^2.1.0",
     "nanoid": "^3.1.23",
-    "random": "^3.0.6"
+    "random": "^3.0.6",
+    "unique-names-generator": "^4.6.0"
   },
   "devDependencies": {
     "@types/chance": "^1.1.3",
     "@types/faker": "^5.5.7",
     "@types/fs-extra": "^9.0.12",
+    "@types/lodash": "^4.14.171",
     "@types/node": "^16.3.3",
     "ts-node": "^10.1.0",
     "typescript": "^4.3.5"

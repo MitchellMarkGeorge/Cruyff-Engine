@@ -14,16 +14,18 @@ import { Chance } from "chance";
 
 const chance = new Chance();
 
+// chance.first({ nationality: })
+
 export class PlayerFactory {
   private static randomPlayerName(): string {
     const nationality: "en" | "it" = chance.pickone(["en", "it"]);
-    return chance.name({ gender: "male", nationality });
+    return chance.name({ gender: "male", nationality }); // should i use first and last to generate randome natonalityh for both names?
   }
 
   private static generateStats(level: PLAYER_LEVEL): number {
     switch (level) {
       case "LEGEND":
-        return randomNumber(85, 95);
+        return randomNumber(85, 95); //100
       case "PRO":
         return randomNumber(75, 85);
 
@@ -77,7 +79,8 @@ export class PlayerFactory {
       overall_rating: 0, // DEFAULT
       skill,
       team: "", // will be set later
-      position
+      position,
+      level
     };
 
     const overall_rating = this.claculateOverallRating(skill);
@@ -101,6 +104,7 @@ export class PlayerFactory {
       // look at these stats again
       gk_saving: this.generateStats(level),
       gk_reactions: this.generateStats(level),
+    
     };
 
     let player: Player = {
@@ -109,7 +113,8 @@ export class PlayerFactory {
       overall_rating: 0, // DEFAULT
       skill,
       team: "", // will be set later
-      position
+      position,
+      level
     };
 
     const overall_rating = this.claculateOverallRating(skill);
@@ -151,7 +156,8 @@ export class PlayerFactory {
       overall_rating: 0, // DEFAULT
       skill,
       team: "", // will be set later
-      position
+      position,
+      level
     };
 
     const overall_rating = this.claculateOverallRating(skill);
@@ -181,7 +187,8 @@ export class PlayerFactory {
       overall_rating: 0, // DEFAULT
       skill,
       team: "", // will be set later
-      position
+      position,
+      level
     };
 
     const overall_rating = this.claculateOverallRating(skill);

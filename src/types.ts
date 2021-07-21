@@ -14,7 +14,8 @@ export interface Player {
     team: string // might create type for this
     overall_rating: number
     skill: SkillAttributes,
-    position: PLAYER_POSITION
+    position: PLAYER_POSITION,
+    level?: PLAYER_LEVEL
 
 }
 
@@ -33,3 +34,64 @@ export interface SkillAttributes {
 
     
 }
+
+export type GeneratedPlayerResults = {
+    GK: Player[];
+    CB: Player[];
+    LB: Player[];
+    RB: Player[];
+    CM: Player[];
+    LM: Player[];
+    RM: Player[];
+    CF: Player[];
+  };
+
+  export const TEAM_NAMES = [
+    "Lockinge FC",
+  
+    "Penrith United",
+  
+    "Chester FC",
+  
+    "Southwold Warriors",
+  
+    "Guthram FC",
+  
+    "Warlington Knights",
+  
+    "MillerVille FC",
+  
+    "Timberwolf FC",
+  
+    "Lancaster United",
+  
+    "Wellspring Thunder",
+  
+    "Landow FC",
+  
+    "Kingsmen United",
+  
+    "Banderland United",
+  
+    "Armagon FC",
+  
+    "Ruthorham Crusaders",
+  
+    "Belton Knights",
+  
+    "Aerilon FC",
+  
+    "Malta United",
+  
+    "Frostford Eagles",
+  
+    "Garmsby Blazers",
+  
+    "Hardersfield United",
+  
+    "Dalmerlington Knights",
+  
+    "Blue Field FC",
+  
+    "Queenstown United",
+  ];

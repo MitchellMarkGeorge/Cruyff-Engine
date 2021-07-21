@@ -1,92 +1,204 @@
+import { GeneratedPlayerResults, Player, PLAYER_LEVEL, PLAYER_POSITION, TEAM_NAMES } from "../types";
 import { PlayerFactory } from "./playerFactory";
-// faker.de
+import fse from "fs-extra";
+import {
+  uniqueNamesGenerator,
+  Config,
+  adjectives,
+  colors,
+  animals,
+} from "unique-names-generator";
 
-// for dtatbase, use lowdb and lodash fornow
-// after mach sim is up and running, make own database
+import { Chance } from "chance";
 
-console.log(PlayerFactory.createPlayer("CF", "ROOKIE"));
-console.log(PlayerFactory.createPlayer("CM", "ROOKIE"));
-console.log(PlayerFactory.createPlayer("CB", "ROOKIE"));
-console.log(PlayerFactory.createPlayer("GK", "ROOKIE"));
+const chance = new Chance();
+
+const POSITIONS: PLAYER_POSITION[] = [
+    "GK",
+    "CB",
+    "LB",
+    "RB",
+    "CM",
+    "RM",
+    "LM",
+    "CF",
+  ];
+
+function generatePlayers(
+  numberOfTeams: number = 24,
+  squadSize: number = 11
+): GeneratedPlayerResults {
+  // const numberOfPlayers = numberOfTeams * squadSize;
+
+  const siglePositionNumber = numberOfTeams; // this is for players/positions that only appear once in the team
+  const doublePositionNumber = siglePositionNumber * 2; // for positions that appear twice in a team
+
+  const players: GeneratedPlayerResults = {
+    GK: [],
+    CB: [],
+    LB: [],
+    RB: [],
+    CM: [],
+    LM: [],
+    RM: [],
+    CF: [],
+  };
+
+  const LEVELS: PLAYER_LEVEL[] = ["LEGEND", "PRO", "ROOKIE"];
+
+  
+  
+  const SINGLE_POSITION_PER_LEVEL = siglePositionNumber / 3; // 8
+  const DOUBLE_POSITION_PER_LEVEL = doublePositionNumber / 3; // 16
+
+ 
+  const POSITION_TO_LEVEL_MAP = {
+    GK: SINGLE_POSITION_PER_LEVEL,
+    CB: DOUBLE_POSITION_PER_LEVEL,
+    LB: SINGLE_POSITION_PER_LEVEL,
+    RB: SINGLE_POSITION_PER_LEVEL,
+    CM: DOUBLE_POSITION_PER_LEVEL,
+    LM: SINGLE_POSITION_PER_LEVEL,
+    RM: SINGLE_POSITION_PER_LEVEL,
+    CF: DOUBLE_POSITION_PER_LEVEL,
+  };
+
+  // for each player position, create a player for each level
+
+  POSITIONS.forEach((position) => {
+    const position_per_level = POSITION_TO_LEVEL_MAP[position];
+
+    LEVELS.forEach((level) => {
+      for (let i = 0; i < position_per_level; i++) {
+        const newPlayer = PlayerFactory.createPlayer(position, level);
+        players[position].push(newPlayer);
+      }
+    });
+  });
+
+  return players;
+}
+
+const generated_players = generatePlayers();
+
+Object.entries(generated_players).forEach((entry) => {
+  const [position, players] = entry;
+  console.log(`${players.length} ${position} generated`);
+});
 
 
 
-// faker.name.
-// for (let i = 0; i < 10; i++) {
-//     console.log(faker.name.firstName(0) + " " + faker.name.lastName(0))
+const final_player_map: { [team: string]: Player[]} = {};
+
+
+// for (let i = 0; i < TEAM_NAMES.length; i++) {
+//     const current_team = TEAM_NAMES[i];
+
+//     POSITIONS.forEach(position => {
+//        const players = generated_players[position]
+
+//         if (["GK", "LB", "RB", "RM", "LM"].includes(position)) {
+//             let player = chance.pickone(generated_players[position]);
+      
+//             player.team = current_team;
+//               // players are removed from array to make sure there is no repeating players in teams
+          
+      
+//             if (!final_player_map[current_team]) {
+//               final_player_map[current_team] = []
+//             }
+      
+//             final_player_map[current_team].push(player);
+      
+//               let index = players.indexOf(player);
+      
+//             players.splice(index);
+      
+//           } else if (["CB", "CM", "CF"].includes(position) && players.length) {
+//             let selected_players = chance.pickset(players, 2);
+      
+//             selected_players.forEach((player) => {
+//               player.team = team;
+              
+      
+//               if (!final_player_map[team]) {
+//                   final_player_map[team] = []
+//                 }
+//                final_player_map[team].push(player);
+      
+//               //  let index = players.indexOf(player);
+//               // players are removed from array to make sure there is no repeating players in teams
+//               // players.splice(index);
+//             });
+//           }
+//     })
+
 // }
 
-// generate 264 players (24 teams)
-// support only 4-4-2
-/**
- * generate by teams
- * 20 players
- *
- * starting (11)
- * 1 gk
- * 4 defenders (2 cb, 1 lb, 1 rb)
- * 4 midfielders (2 cm, 1lm, 1 rm)
- * 2 cf
- *
- * substitutes (5) // do i need this? should ai teams be able to substitute players?
- * 1gk
- * 2 defenders,
- * 1 mid
- * 1 cf
- */
+// should i try and 
+TEAM_NAMES.forEach(team => {
+  // for each team randomly pick
+  // 1gk
+  // 2cb
+  // 1lb
+  //1rb
+  //2cm
+  //1lm
+  //1rm
+  //2cf
+
+ 
 
 
-// the skill attributes of a player depends on two things
-// 1) the level of a player
-// 2) the position of the player
-//
-// 1) a rookie player (indendent of the position thry play) would have
-// lower skill attributes (and a lower overall rating) compared to pro and legend players
-// (indepenedt of the position they play)
+  Object.entries(generated_players).forEach((entry) => {
+    const [position, players] = entry;
+    // console.log(entry)
+    if (["GK", "LB", "RB", "RM", "LM"].includes(position) && players.length) {
+      let player = chance.pickone(players);
 
-// 2) a cf would be better at shooting and dribbling compared to a defender (who mwould be better at defending and passing)
+      player.team = team;
+        // players are removed from array to make sure there is no repeating players in teams
+    
 
-// CF attributes
-// better at skills like
-//  speed, dribbling, shooting
-// bad at tackling, strenght
+      if (!final_player_map[team]) {
+        final_player_map[team] = []
+      }
 
-// Midfielders
-// good at most things
-// good at passing
-// some might be better at defending or attaching
+      final_player_map[team].push(player);
 
-// Defenders
-// bad at speed, dirbbling
+        let index = players.indexOf(player);
 
-// let players: Player[] = [];
+      players.splice(index, 1);
 
-// function generatePlayers() {
+    } else if (["CB", "CM", "CF"].includes(position) && players.length) {
+      let selected_players = chance.pickset(players, 2);
 
-//     // generate gk
-// }
+      selected_players.forEach((player) => {
+        player.team = team;
+        
 
-// function createPlayer(position: PLAYER_POSITION, level: PLAYER_LEVEL) {
-//     let player: Player = {}
-// }
+        if (!final_player_map[team]) {
+            final_player_map[team] = []
+          }
+         final_player_map[team].push(player);
 
-// function buildSkillAttributes() {
+         let index = players.indexOf(player);
+        // players are removed from array to make sure there is no repeating players in teams
+        players.splice(index, 1);
+      });
+    }
+    
+  });
+});
 
-// }
+Object.entries(final_player_map).forEach((entry) => {
+    const [team, players] = entry;
+    console.log(`${team} has ${players.length} players`);
+  });
 
-// function generateStats(level: PLAYER_LEVEL): number {
-//     switch (level) {
-//         case "LEGEND":
+  fse.outputJSON("./players.json", final_player_map).catch((err) => {
+  console.log(err);
+});
+ 
 
-//             return randomNumber(85, 95)
-//         case "PRO":
-//             return randomNumber(75, 85)
 
-//         case "ROOKIE":
-//             return randomNumber(60, 65)
-
-//         default:
-//             return randomNumber(60, 100);
-
-//     }
-// }
