@@ -196,7 +196,7 @@ Object.entries(final_player_map).forEach((entry) => {
     console.log(`${team} has ${players.length} players`);
   });
 
-  fse.outputJSON("./players.json", final_player_map).catch((err) => {
+  fse.outputJSON("./data/players.json", final_player_map).catch((err) => {
   console.log(err);
 });
  

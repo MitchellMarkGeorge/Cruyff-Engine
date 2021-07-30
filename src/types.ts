@@ -15,7 +15,7 @@ export interface Player {
     overall_rating: number
     skill: SkillAttributes,
     position: PLAYER_POSITION,
-    level?: PLAYER_LEVEL
+    level: PLAYER_LEVEL
 
 }
 
@@ -95,3 +95,8 @@ export type GeneratedPlayerResults = {
   
     "Queenstown United",
   ];
+
+  export interface Coordinate {
+    x: number,
+    y: number
+  }

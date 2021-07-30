@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate-players": "ts-node src/scripts/generatePlayers.ts",
-    "team-ovr": "ts-node src/scripts/calculateTeamOvr.ts"
+    "team-ovr": "ts-node src/scripts/calculateTeamOvr.ts",
+    "load-team": "ts-node src/loadTeam.ts"
   },
   "keywords": [],
   "author": "",
