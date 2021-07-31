@@ -2,7 +2,11 @@
 // track if player has the ball (instamce of ball object)
 // should take Player object and "copy" all its info
 
+import { Pitch } from "../../pitch";
 import { Player, PLAYER_LEVEL, PLAYER_POSITION, SkillAttributes } from "../../types";
+import { playerUtils } from "../../utils";
+import { AI } from "../playerAI/types";
+import { MatchState } from "./matchstate";
 
 export class SimPlayer implements Player {
     id: string;
@@ -12,7 +16,8 @@ export class SimPlayer implements Player {
     skill: SkillAttributes;
     team: string;
     level: PLAYER_LEVEL;
-    hasPossession: boolean = false;
+    ai: AI
+    // hasPossession: boolean = false;
     
     constructor(player: Player) {
         this.id = player.id
@@ -22,7 +27,13 @@ export class SimPlayer implements Player {
         this.skill = player.skill;
         this.team = player.team;
         this.level = player.level;
+
+        this.ai = playerUtils.getAI(this.position);
         
+    }
+
+    makeDecision(pitch: Pitch, matchState: MatchState) {
+        // matchState is needed to update state based on the actions taken (like a pass, shot, goal, )
     }
 
     // use methofs to switch possession
