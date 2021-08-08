@@ -20,6 +20,10 @@ export class SimPlayer implements Player {
     // hasPossession: boolean = false;
     
     constructor(player: Player) {
+
+        // use methods instead
+
+
         this.id = player.id
         this.name = player.name;
         this.overall_rating = player.overall_rating;
